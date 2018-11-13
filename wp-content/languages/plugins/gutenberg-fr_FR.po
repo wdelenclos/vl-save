@@ -1,0 +1,3881 @@
+# Translation of Plugins - Gutenberg - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Gutenberg - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-11-12 15:49:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Gutenberg - Stable (latest release)\n"
+
+#. translators: Number of blocks untrashed.
+#: lib/register.php:558
+msgid "%s block restored from the Trash."
+msgid_plural "%s blocks restored from the Trash."
+msgstr[0] "%s bloc restauré à partir de la corbeille."
+msgstr[1] "%s blocs restaurés à partir de la corbeille."
+
+#. translators: Number of blocks trashed.
+#: lib/register.php:556
+msgid "%s block moved to the Trash."
+msgid_plural "%s blocks moved to the Trash."
+msgstr[0] "%s bloc déplacé à la corbeille."
+msgstr[1] "%s blocs déplacés à la corbeille."
+
+#. translators: Number of blocks deleted.
+#: lib/register.php:554
+msgid "%s block permanently deleted."
+msgid_plural "%s blocks permanently deleted."
+msgstr[0] "%s bloc supprimé définitivement."
+msgstr[1] "%s blocs supprimés définitivement."
+
+#: lib/register.php:552
+msgid "%s block not updated, somebody is editing it."
+msgid_plural "%s blocks not updated, somebody is editing them."
+msgstr[0] "%s bloc non mis à jour, quelqu’un le modifie."
+msgstr[1] "%s blocs non mis à jour, quelqu’un les modifie."
+
+#. translators: Blocks not updated because they're locked.
+#: lib/register.php:552
+msgid "1 block not updated, somebody is editing it."
+msgstr "1 bloc non mis à jour, quelqu’un le modifie."
+
+#. translators: Number of blocks updated.
+#: lib/register.php:550
+msgid "%s block updated."
+msgid_plural "%s blocks updated."
+msgstr[0] "%s bloc mis à jour."
+msgstr[1] "%s blocs mis à jour."
+
+#: lib/register.php:466
+msgid "Block scheduled."
+msgstr "Bloc planifié."
+
+#: lib/register.php:465
+msgid "Block reverted to draft."
+msgstr "Bloc redevenu brouillon."
+
+#: lib/register.php:464
+msgid "Block published privately."
+msgstr "Bloc publié en privé."
+
+#: lib/register.php:463
+msgid "Block published."
+msgstr "Bloc publié."
+
+#: lib/register.php:462
+msgid "Blocks list"
+msgstr "Liste des blocs"
+
+#: lib/register.php:461
+msgid "Blocks list navigation"
+msgstr "Navigation de la liste des blocs"
+
+#: lib/register.php:460
+msgid "Filter blocks list"
+msgstr "Filtrer la liste des blocs"
+
+#: lib/register.php:459
+msgid "No blocks found in Trash."
+msgstr "Aucun bloc trouvé à la corbeille."
+
+#: lib/register.php:456
+msgid "All Blocks"
+msgstr "Tous les blocs"
+
+#: lib/register.php:455
+msgid "View Block"
+msgstr "Voir le bloc"
+
+#: lib/register.php:454
+msgid "Edit Block"
+msgstr "Modifier le bloc"
+
+#: lib/register.php:453
+msgid "New Block"
+msgstr "Nouveau bloc"
+
+#: lib/register.php:452
+msgid "Add New Block"
+msgstr "Ajouter un nouveau bloc"
+
+#: lib/register.php:451
+msgctxt "Block"
+msgid "Add New"
+msgstr "Ajouter un nouveau"
+
+#: lib/register.php:450
+msgctxt "add new on admin bar"
+msgid "Block"
+msgstr "Bloc"
+
+#: lib/register.php:449
+msgctxt "admin menu"
+msgid "Blocks"
+msgstr "Blocs"
+
+#: lib/register.php:448
+msgctxt "post type singular name"
+msgid "Block"
+msgstr "Bloc"
+
+#: lib/register.php:447
+msgctxt "post type general name"
+msgid "Blocks"
+msgstr "Blocs"
+
+#: languages/gutenberg-translations.php:2334
+msgid "Link inserted"
+msgstr "Lien inséré"
+
+#: languages/gutenberg-translations.php:2328
+msgid "Warning: the link has been inserted but may have errors. Please test it."
+msgstr "Avertissement : le lien a été inséré mais peut contenir des erreurs. Veuillez le tester."
+
+#: languages/gutenberg-translations.php:2267
+msgid "%s blocks selected."
+msgstr "%s blocs sélectionnés."
+
+#: languages/gutenberg-translations.php:2258 lib/client-assets.php:1353
+msgid "Thumbnail"
+msgstr "Miniature"
+
+#: languages/gutenberg-translations.php:2222 lib/client-assets.php:1356
+msgid "Full Size"
+msgstr "Pleine taille"
+
+#: languages/gutenberg-translations.php:2207
+msgid "Link selected"
+msgstr "Lien sélectionné"
+
+#: languages/gutenberg-translations.php:2114
+msgid "Start writing with text or HTML"
+msgstr "Commencez à écrire avec du teste ou du HTML"
+
+#: languages/gutenberg-translations.php:2111
+msgid "Type text or HTML"
+msgstr "Saisissez du texte ou su HTML"
+
+#: languages/gutenberg-translations.php:1735
+msgid "Block icon"
+msgstr "Icône de bloc"
+
+#: languages/gutenberg-translations.php:1563
+msgid "Align text right"
+msgstr "Aligner le texte à droite"
+
+#: languages/gutenberg-translations.php:1560
+msgid "Align text center"
+msgstr "Aligner le texte au centre"
+
+#: languages/gutenberg-translations.php:1557
+msgid "Align text left"
+msgstr "Aligner le texte à gauche"
+
+#: languages/gutenberg-translations.php:740
+msgid "Empty block; start writing or type forward slash to choose a block"
+msgstr "Bloc vide; commencez à écrire ou saisir une barre oblique pour choisir un bloc"
+
+#: languages/gutenberg-translations.php:744 lib/client-assets.php:1632
+msgid "Start writing or type / to choose a block"
+msgstr "Commencez à écrire ou saisir « / » pour choisir un bloc"
+
+#: languages/gutenberg-translations.php:737
+msgid "Paragraph block"
+msgstr "Bloc paragraphe"
+
+#: languages/gutenberg-translations.php:719
+msgid "Page Break"
+msgstr "Saut de page"
+
+#: languages/gutenberg-translations.php:677
+msgid "Stack on mobile"
+msgstr "Empiler sur mobile"
+
+#: languages/gutenberg-translations.php:1811
+msgid "Drag an image, upload a new one or select a file from your library."
+msgstr "Glisser une image, en téléverser une nouvelle ou sélectionner un fichier dans votre bibliothèque."
+
+#: languages/gutenberg-translations.php:1808
+msgid "Drag an audio, upload a new one or select a file from your library."
+msgstr "Glisser un fichier son, en téléverser un nouveau ou sélectionner un fichier dans votre bibliothèque."
+
+#: languages/gutenberg-translations.php:1805
+msgid "Drag a media file, upload a new one or select a file from your library."
+msgstr "Glisser un fichier média, en téléverser un nouveau ou sélectionner un fichier dans votre bibliothèque."
+
+#: languages/gutenberg-translations.php:464
+msgid "Drag images, upload new ones or select files from your library."
+msgstr "Glisser des images, en téléverser de nouvelles ou sélectionner des fichiers dans votre bibliothèque."
+
+#: languages/gutenberg-translations.php:384
+msgid "Drag a file, upload a new one or select a file from your library."
+msgstr "Glisser un fichier, en téléverser un nouveau ou sélectionner un fichier dans votre bibliothèque."
+
+#: languages/gutenberg-translations.php:5
+msgid "Annotation"
+msgstr "Annotation"
+
+#. translators: Button to fix block content
+#: languages/gutenberg-translations.php:2444
+msgctxt "imperative verb"
+msgid "Resolve"
+msgstr "Résoudre"
+
+#: languages/gutenberg-translations.php:2434
+msgctxt "font size name"
+msgid "Large"
+msgstr "Large"
+
+#: languages/gutenberg-translations.php:2431
+msgctxt "font size name"
+msgid "Medium"
+msgstr "Médium"
+
+#: languages/gutenberg-translations.php:2428
+msgctxt "font size name"
+msgid "Small"
+msgstr "Petite"
+
+#: languages/gutenberg-translations.php:2422
+msgctxt "font size name"
+msgid "Normal"
+msgstr "Normale"
+
+#: languages/gutenberg-translations.php:2437
+msgctxt "font size name"
+msgid "Huge"
+msgstr "Énorme"
+
+#: languages/gutenberg-translations.php:2418
+msgctxt "keyboard button"
+msgid "Enter"
+msgstr "Entrée"
+
+#: languages/gutenberg-translations.php:2409
+msgctxt "button label"
+msgid "Import"
+msgstr "Importer"
+
+#: languages/gutenberg-translations.php:2406
+msgctxt "button label"
+msgid "Download"
+msgstr "Télécharger"
+
+#: languages/gutenberg-translations.php:2383
+msgctxt "block style"
+msgid "Squared"
+msgstr "Carré"
+
+#: languages/gutenberg-translations.php:2380
+msgctxt "block style"
+msgid "Rounded"
+msgstr "Arrondi"
+
+#. translators: accessibility label for external links, where the argument is
+#. the link text
+#: languages/gutenberg-translations.php:2338
+msgid "%s (opens in a new tab)"
+msgstr "%s (ouverture dans un nouvel onglet)"
+
+#: languages/gutenberg-translations.php:2397
+msgctxt "block title"
+msgid "Classic"
+msgstr "Classique"
+
+#: languages/gutenberg-translations.php:2391
+msgctxt "block style"
+msgid "Large"
+msgstr "Large"
+
+#: languages/gutenberg-translations.php:2331
+msgid "Link edited."
+msgstr "Lien modifié."
+
+#: languages/gutenberg-translations.php:2325
+msgid "Link removed."
+msgstr "Lien retiré."
+
+#: languages/gutenberg-translations.php:2313
+msgid "media"
+msgstr "média"
+
+#: languages/gutenberg-translations.php:1817
+msgid "Media"
+msgstr "Média"
+
+#. translators: ARIA label for the Block Settings sidebar tab, selected.
+#: languages/gutenberg-translations.php:1487
+msgid "Block settings (selected)"
+msgstr "Réglages du bloc (sélectionné)"
+
+#. translators: ARIA label for the Document Settings sidebar tab, selected.
+#: languages/gutenberg-translations.php:1479
+msgid "Document settings (selected)"
+msgstr "Réglages du document (sélectionné)"
+
+#: languages/gutenberg-translations.php:1865
+msgid "Edit or update the image"
+msgstr "Modifier ou mettre à jour l’image"
+
+#: languages/gutenberg-translations.php:1953
+msgid "Generating preview…"
+msgstr "Génération de l’aperçu…"
+
+#: languages/gutenberg-translations.php:2044
+msgid "Double-check your settings before publishing."
+msgstr "Revérifiez vos réglages avant de publier."
+
+#: languages/gutenberg-translations.php:1266
+msgid "Show more tools & options"
+msgstr "Afficher plus d’outils et d’options"
+
+#: languages/gutenberg-translations.php:1269
+msgid "Hide more tools & options"
+msgstr "Masquer plus d’outils et d’options"
+
+#: languages/gutenberg-translations.php:1351
+msgid "Navigate to the nearest toolbar."
+msgstr "Naviguer vers la barre d’outils la plus proche."
+
+#: languages/gutenberg-translations.php:2388
+msgctxt "block style"
+msgid "Regular"
+msgstr "Normal"
+
+#: languages/gutenberg-translations.php:2450
+msgctxt "blocks"
+msgid "Most Used"
+msgstr "Les plus utilisés"
+
+#: languages/gutenberg-translations.php:2400
+msgctxt "block title"
+msgid "Embed"
+msgstr "Contenu embarqué"
+
+#: languages/gutenberg-translations.php:1242
+msgid "Document tools"
+msgstr "Outils du document"
+
+#: languages/gutenberg-translations.php:1239
+msgid "Document and block tools"
+msgstr "Outils du document et des blocs"
+
+#: languages/gutenberg-translations.php:956
+msgid "Embed a video from your media library or upload a new one."
+msgstr "Intégrer une vidéo depuis votre bibliothèque de médias ou en téléverser une nouvelle."
+
+#: languages/gutenberg-translations.php:917
+msgid "Insert poetry. Use special spacing formats. Or quote song lyrics."
+msgstr "Insérer de la poésie en utilisant un format d’espacement spécifique, ou alors des paroles de chansons."
+
+#: languages/gutenberg-translations.php:2403
+msgctxt "button label"
+msgid "Embed"
+msgstr "Intégrer"
+
+#: languages/gutenberg-translations.php:836
+msgid "Add white space between blocks and customize its height."
+msgstr "Ajoutez un espace vide entre les blocs et personnalisez sa hauteur."
+
+#: languages/gutenberg-translations.php:674
+msgid "Media & Text Settings"
+msgstr "Média & réglages du texte"
+
+#: languages/gutenberg-translations.php:656
+msgid "Create a bulleted or numbered list."
+msgstr "Créer une liste à puces ou une liste numérotée."
+
+#: languages/gutenberg-translations.php:607
+msgid "Display a list of your most recent comments."
+msgstr "Afficher une liste de vos commentaires les plus récents."
+
+#: languages/gutenberg-translations.php:586
+msgid "Insert an image to make a visual statement."
+msgstr "Insérer une image pour créer une déclaration visuelle."
+
+#: languages/gutenberg-translations.php:549
+msgid "Alternative text describes your image to people who can’t see it. Add a short description with its key details."
+msgstr "Le texte alternatif décrit votre image aux personnes qui ne peuvent pas la voir. Ajoutez une courte description avec ses détails clés."
+
+#: languages/gutenberg-translations.php:479
+msgid "Display multiple images in a rich gallery."
+msgstr "Afficher de multiples images dans une galerie enrichie."
+
+#: languages/gutenberg-translations.php:401
+msgid "Add a link to a downloadable file."
+msgstr "Ajouter un lien vers un fichier téléchargeable."
+
+#: languages/gutenberg-translations.php:722
+msgid "Separate your content into a multi-page experience."
+msgstr "Séparer votre contenu sur plusieurs pages."
+
+#: languages/gutenberg-translations.php:756
+msgid "Start with the building block of all narrative."
+msgstr "Commencer par la pierre angulaire de tout récit."
+
+#: languages/gutenberg-translations.php:787
+msgid "Give special visual emphasis to a quote from your text."
+msgstr "Donner une emphase visuelle à une citation depuis votre texte."
+
+#: languages/gutenberg-translations.php:797
+msgid "Give quoted text visual emphasis. \"In quoting others, we cite ourselves.\" — Julio Cortázar"
+msgstr "Donner une emphase visuelle à vos textes de citations. « En citant les autres, nous nous citons nous mêmes » — Julio Cortázar"
+
+#: languages/gutenberg-translations.php:806
+msgid "Create a break between ideas or sections with a horizontal separator."
+msgstr "Créer un espacement entre des idées ou entre des section avec un séparateur horizontal."
+
+#: languages/gutenberg-translations.php:824
+msgid "Insert additional custom elements with a WordPress shortcode."
+msgstr "Insérer un élément personnalisé additionnel avec un code court WordPress."
+
+#: languages/gutenberg-translations.php:683
+msgid "Set media and words side-by-side media for a richer layout."
+msgstr "Mettre un média et du texte côte-à-côte pour une mise en page plus riche."
+
+#: languages/gutenberg-translations.php:519
+msgid "Add custom HTML code and preview it as you edit."
+msgstr "Ajouter du code HTML personnalisé et le prévisualiser directement."
+
+#: languages/gutenberg-translations.php:507
+msgid "Introduce new sections and organize content to help visitors (and search engines) understand the structure of your content."
+msgstr "Introduire les nouvelles sections et organiser le contenu pour aider les visiteurs (et les moteurs de recherche) à comprendre la structure de votre contenu."
+
+#: languages/gutenberg-translations.php:372
+msgid "Embed videos, images, tweets, audio, and other content from external sources."
+msgstr "Intégrer des vidéos, des images, des tweets, des sons et d’autres contenus depuis des sources externes."
+
+#: languages/gutenberg-translations.php:713
+msgid "Want to show only an excerpt of this post on your homepage? Use this block to define where you want the separation."
+msgstr "Vous souhaitez afficher uniquement un extrait de cette publication sur votre page d’accueil ? Utilisez ce bloc pour définir où vous souhaitez cette séparation."
+
+#: languages/gutenberg-translations.php:354
+msgid "Resize for smaller devices"
+msgstr "Redimensionner pour les petits appareils"
+
+#: languages/gutenberg-translations.php:342
+msgid "This embed may not preserve its aspect ratio when the browser is resized."
+msgstr "Ce contenu intégré pourrait perdre son ratio si le navigateur est redimensionné."
+
+#: languages/gutenberg-translations.php:339
+msgid "This embed will preserve its aspect ratio when the browser is resized."
+msgstr "Ce contenu intégré conservera son ratio si le navigateur est redimensionné."
+
+#: languages/gutenberg-translations.php:217
+msgid "Add an image or video with a text overlay — great for headers."
+msgstr "Ajouter une image ou une vidéo avec un texte par dessus – Parfait pour les en-têtes."
+
+#: languages/gutenberg-translations.php:211
+msgid "Drag an image or a video, upload a new one or select a file from your library."
+msgstr "Glisser une image ou une vidéo, en téléverser une nouvelle ou sélectionner un fichier depuis votre bibliothèque."
+
+#: languages/gutenberg-translations.php:172
+msgid "Display code snippets that respect your spacing and tabs."
+msgstr "Afficher des extraits de code qui respectent vos espacements et tabulations."
+
+#: languages/gutenberg-translations.php:161
+msgid "Use the classic WordPress editor."
+msgstr "Utiliser l’ancien éditeur WordPress."
+
+#: languages/gutenberg-translations.php:152
+msgid "Display a list of all categories."
+msgstr "Afficher une liste de toutes les catégories."
+
+#: languages/gutenberg-translations.php:131
+msgid "Prompt visitors to take action with a custom button."
+msgstr "Proposer aux visiteurs une action avec un bouton personnalisé."
+
+#: languages/gutenberg-translations.php:75
+msgid "Embed a simple audio player."
+msgstr "Intégrer un simple lecteur audio."
+
+#: languages/gutenberg-translations.php:333
+msgid "Embed a Vimeo video."
+msgstr "Intégrer une vidéo Vimeo."
+
+#: languages/gutenberg-translations.php:317
+msgid "Embed a WordPress post."
+msgstr "Intégrer une publication WordPress."
+
+#: languages/gutenberg-translations.php:308
+msgid "Embed an Instagram post."
+msgstr "Intégrer une publication Instagram."
+
+#: languages/gutenberg-translations.php:305
+msgid "Embed a Facebook post."
+msgstr "Intégrer une publication Facebook."
+
+#: languages/gutenberg-translations.php:302
+msgid "Embed a WordPress.tv video."
+msgstr "Intégrer une vidéo WordPress.tv."
+
+#: languages/gutenberg-translations.php:299
+msgid "Embed a VideoPress video."
+msgstr "Intégrer une vidéo VideoPress."
+
+#: languages/gutenberg-translations.php:292
+msgid "Embed a Tumblr post."
+msgstr "Intégrer une publication Tumblr."
+
+#: languages/gutenberg-translations.php:289
+msgid "Embed a TED video."
+msgstr "Intégrer une vidéo TED."
+
+#: languages/gutenberg-translations.php:336
+msgid "Embed an Animoto video."
+msgstr "Intégrer une vidéo Animoto."
+
+#: languages/gutenberg-translations.php:283
+msgid "Embed a YouTube video."
+msgstr "Intégrer une vidéo YouTube."
+
+#: languages/gutenberg-translations.php:265
+msgid "Embed a Reddit thread."
+msgstr "Intégrer un fil de discussion Reddit."
+
+#: languages/gutenberg-translations.php:259
+msgid "Embed a Photobucket image."
+msgstr "Intégrer une image Photobucket."
+
+#: languages/gutenberg-translations.php:247
+msgid "Embed a tweet."
+msgstr "Intégrer un tweet."
+
+#: languages/gutenberg-translations.php:229
+msgid "Embed Funny or Die content."
+msgstr "Intégrer un contenu Funny or Die."
+
+#: languages/gutenberg-translations.php:286
+msgid "Embed Speaker Deck content."
+msgstr "Intégrer un contenu Speaker Deck."
+
+#: languages/gutenberg-translations.php:320
+msgid "Embed SoundCloud content."
+msgstr "Intégrer un contenu SoundCloud."
+
+#: languages/gutenberg-translations.php:323
+msgid "Embed Spotify content."
+msgstr "Intégrer un contenu Spotify."
+
+#: languages/gutenberg-translations.php:330
+msgid "Embed Flickr content."
+msgstr "Intégrer un contenu Flickr."
+
+#: languages/gutenberg-translations.php:280
+msgid "Embed SmugMug content."
+msgstr "Intégrer un contenu SmugMug."
+
+#: languages/gutenberg-translations.php:277
+msgid "Embed Slideshare content."
+msgstr "Intégrer un contenu Slideshare."
+
+#: languages/gutenberg-translations.php:274
+msgid "Embed Scribd content."
+msgstr "Intégrer un contenu Scribd."
+
+#: languages/gutenberg-translations.php:271
+msgid "Embed Screencast content."
+msgstr "Intégrer un contenu Screencast."
+
+#: languages/gutenberg-translations.php:268
+msgid "Embed ReverbNation content."
+msgstr "Intégrer un contenu ReverbNation."
+
+#: languages/gutenberg-translations.php:262
+msgid "Embed Polldaddy content."
+msgstr "Intégrer un contenu Polldaddy."
+
+#: languages/gutenberg-translations.php:256
+msgid "Embed Mixcloud content."
+msgstr "Intégrer un contenu Mixcloud."
+
+#: languages/gutenberg-translations.php:244
+msgid "Embed Meetup.com content."
+msgstr "Intégrer un contenu Meetup.com."
+
+#: languages/gutenberg-translations.php:241
+msgid "Embed Kickstarter content."
+msgstr "Intégrer un contenu Kickstarter."
+
+#: languages/gutenberg-translations.php:238
+msgid "Embed Issuu content."
+msgstr "Intégrer un contenu Issuu."
+
+#: languages/gutenberg-translations.php:235
+msgid "Embed Imgur content."
+msgstr "Intégrer un contenu Imgur."
+
+#: languages/gutenberg-translations.php:232
+msgid "Embed Hulu content."
+msgstr "Intégrer un contenu Hulu."
+
+#: languages/gutenberg-translations.php:226
+msgid "Embed a Dailymotion video."
+msgstr "Intégrer une vidéo Dailymotion."
+
+#: languages/gutenberg-translations.php:223
+msgid "Embed CollegeHumor content."
+msgstr "Intégrer un contenu CollegeHumor."
+
+#: languages/gutenberg-translations.php:220
+msgid "Embed Cloudup content."
+msgstr "Intégrer un contenu Cloudup."
+
+#: lib/rest-api.php:330
+msgid "Page published privately."
+msgstr "Page publiée de façon privée."
+
+#: lib/rest-api.php:333
+msgid "Page updated."
+msgstr "Page mise à jour."
+
+#: lib/rest-api.php:332
+msgid "Page scheduled."
+msgstr "Page planifiée."
+
+#: lib/rest-api.php:331
+msgid "Page reverted to draft."
+msgstr "Page remise en brouillon."
+
+#: lib/rest-api.php:329
+msgid "Page published."
+msgstr "Page publiée."
+
+#: lib/client-assets.php:400
+msgid "M j, Y g:i a"
+msgstr "d F Y g:i a"
+
+#: lib/class-wp-rest-themes-controller.php:194
+msgid "Limit result set to themes assigned one or more statuses."
+msgstr "Limitation des résultats aux thèmes assignés à un ou plusieurs états."
+
+#: lib/class-wp-rest-themes-controller.php:171
+msgid "Whether the theme supports responsive embedded content."
+msgstr "Si le thème supporte ou non des contenus embarqués responsive."
+
+#: lib/class-wp-rest-themes-controller.php:166
+msgid "Whether the theme supports post thumbnails."
+msgstr "Si le thème supporte ou non des miniatures de publication."
+
+#: lib/class-wp-rest-themes-controller.php:161
+msgid "Post formats supported."
+msgstr "Formats de publication supportés."
+
+#: lib/class-wp-rest-themes-controller.php:156
+msgid "Features supported by this theme."
+msgstr "Fonctionnalités supportées par ce thème."
+
+#: lib/class-wp-rest-themes-controller.php:62
+msgid "Sorry, you are not allowed to view themes."
+msgstr "Désolé, vous n’êtes pas autorisé à voir les thèmes."
+
+#: languages/gutenberg-translations.php:2440
+msgctxt "noun"
+msgid "View"
+msgstr "Vue"
+
+#: languages/gutenberg-translations.php:2425
+msgctxt "font size name"
+msgid "Custom"
+msgstr "Personnalisée"
+
+#: languages/gutenberg-translations.php:2056
+msgid "Save as Pending"
+msgstr "Enregistrer comme en attente"
+
+#. translators: %s: post type singular name
+#: languages/gutenberg-translations.php:2014
+msgid "%s address"
+msgstr "adresse de %s"
+
+#: languages/gutenberg-translations.php:1829
+msgid "Paste or type URL"
+msgstr "Collez ou saisissez l’URL"
+
+#: languages/gutenberg-translations.php:1826
+msgid "Insert from URL"
+msgstr "Insérer à partir d’une URL"
+
+#: languages/gutenberg-translations.php:1681
+msgid "No blocks created yet."
+msgstr "Encore aucun bloc créé."
+
+#: languages/gutenberg-translations.php:1678
+msgid "Block Navigation"
+msgstr "Navigation de bloc"
+
+#: languages/gutenberg-translations.php:1603
+msgid "Styles"
+msgstr "Styles"
+
+#: languages/gutenberg-translations.php:1463
+msgid "Click to change"
+msgstr "Cliquez pour modifier"
+
+#: languages/gutenberg-translations.php:1441
+msgid "Advanced Panels"
+msgstr "Panneaux avancés"
+
+#: languages/gutenberg-translations.php:1421
+msgid "Document Panels"
+msgstr "Panneaux de documentation"
+
+#: languages/gutenberg-translations.php:1418
+msgid "Enable Tips"
+msgstr "Activer les astuces"
+
+#: languages/gutenberg-translations.php:1412
+msgid "General"
+msgstr "Général"
+
+#: languages/gutenberg-translations.php:1336
+msgid "Open the block navigation menu."
+msgstr "Ouvrir le menu de navigation de bloc."
+
+#: languages/gutenberg-translations.php:1297
+msgid "Work without distraction"
+msgstr "Travailler sans distraction"
+
+#: languages/gutenberg-translations.php:1291
+msgid "Focus on one block at a time"
+msgstr "Se concentrer sur un bloc à la fois"
+
+#: languages/gutenberg-translations.php:1285
+msgid "Access all block and document tools in a single place"
+msgstr "Accéder à tous les blocs et au document à partir d’un endroit unique"
+
+#: languages/gutenberg-translations.php:1273
+msgid "Options"
+msgstr "Options"
+
+#. translators: accessibility text
+#: languages/gutenberg-translations.php:1162
+msgid "(opens in a new tab)"
+msgstr "(ouvre un nouvel onglet)"
+
+#: languages/gutenberg-translations.php:1148
+msgid "Minutes"
+msgstr "Minutes"
+
+#: languages/gutenberg-translations.php:1145
+msgid "Hours"
+msgstr "Heures"
+
+#: languages/gutenberg-translations.php:1142
+msgid "Time"
+msgstr "Heure"
+
+#: languages/gutenberg-translations.php:1139
+msgid "Year"
+msgstr "Année"
+
+#: languages/gutenberg-translations.php:1136
+msgid "Day"
+msgstr "Jour"
+
+#: languages/gutenberg-translations.php:1133
+msgid "December"
+msgstr "Décembre"
+
+#: languages/gutenberg-translations.php:1130
+msgid "November"
+msgstr "Novembre"
+
+#: languages/gutenberg-translations.php:1127
+msgid "October"
+msgstr "Octobre"
+
+#: languages/gutenberg-translations.php:1124
+msgid "September"
+msgstr "Septembre"
+
+#: languages/gutenberg-translations.php:1121
+msgid "August"
+msgstr "Août"
+
+#: languages/gutenberg-translations.php:1118
+msgid "July"
+msgstr "Juillet"
+
+#: languages/gutenberg-translations.php:1115
+msgid "June"
+msgstr "Juin"
+
+#: languages/gutenberg-translations.php:1112
+msgid "May"
+msgstr "Mai"
+
+#: languages/gutenberg-translations.php:1109
+msgid "April"
+msgstr "Avril"
+
+#: languages/gutenberg-translations.php:1106
+msgid "March"
+msgstr "Mars"
+
+#: languages/gutenberg-translations.php:1103
+msgid "February"
+msgstr "Février"
+
+#: languages/gutenberg-translations.php:1100
+msgid "January"
+msgstr "Janvier"
+
+#: languages/gutenberg-translations.php:1097
+msgid "Month"
+msgstr "Mois"
+
+#: languages/gutenberg-translations.php:1094
+msgid "Date"
+msgstr "Date"
+
+#: languages/gutenberg-translations.php:1085
+msgid "Go to the first (home) or last (end) day of a week."
+msgstr "Aller au premier (accueil) ou dernier (fin) jour d’une semaine."
+
+#: languages/gutenberg-translations.php:1082
+msgid "Home/End"
+msgstr "Accueil/fin"
+
+#: languages/gutenberg-translations.php:1079
+msgid "Home and End"
+msgstr "Accueil et fin"
+
+#: languages/gutenberg-translations.php:1076
+msgid "Move backward (PgUp) or forward (PgDn) by one month."
+msgstr "Revenir en arrière (PgUp) ou avancer (PgDn) d’un mois."
+
+#: languages/gutenberg-translations.php:1073
+msgid "PgUp/PgDn"
+msgstr "PgUp/PgDn"
+
+#: languages/gutenberg-translations.php:1070
+msgid "Page Up and Page Down"
+msgstr "Paginer vers le haut et vers le bas"
+
+#: languages/gutenberg-translations.php:1064
+msgid "Up and Down Arrows"
+msgstr "Flèches vers le haut et le bas"
+
+#: languages/gutenberg-translations.php:1058
+msgid "Left and Right Arrows"
+msgstr "Flèches gauche et droite"
+
+#: languages/gutenberg-translations.php:1055
+msgid "Select the date in focus."
+msgstr "Sélectionner la date courante."
+
+#: languages/gutenberg-translations.php:1052
+msgid "Navigating with a keyboard"
+msgstr "Navigation avec un clavier"
+
+#: languages/gutenberg-translations.php:1049
+msgid "Click the desired day to select it."
+msgstr "Cliquez sur le jour désiré pour le sélectionner."
+
+#: languages/gutenberg-translations.php:1043
+msgid "Click to Select"
+msgstr "Cliquez pour sélectionner"
+
+#: languages/gutenberg-translations.php:1040
+msgid "Calendar Help"
+msgstr "Aide de calendrier"
+
+#: languages/gutenberg-translations.php:1037
+msgid "Use your arrow keys to change the base color. Move up to lighten the color, down to darken, left to increase saturation, and right to decrease saturation."
+msgstr "Utilisez les touches fléchées pour changer la couleur de base. Déplacez-vous vers le haut pour éclaircir la couleur, vers le bas pour assombrir, vers la gauche pour augmenter la saturation, et vers la droite pour diminuer la saturation."
+
+#: languages/gutenberg-translations.php:1034
+msgid "Choose a shade"
+msgstr "Choisir une teinte"
+
+#: languages/gutenberg-translations.php:1031
+msgid "Change color format"
+msgstr "Modifier le format de couleur"
+
+#: languages/gutenberg-translations.php:1028
+msgid "Color value in HSL"
+msgstr "Valeur de couleur en HSL"
+
+#: languages/gutenberg-translations.php:1025
+msgid "Color value in RGB"
+msgstr "Valeur de couleur en RGB"
+
+#: languages/gutenberg-translations.php:1022
+msgid "Color value in hexadecimal"
+msgstr "Valeur de la couleur en hexadécimal"
+
+#: languages/gutenberg-translations.php:1019
+msgid "RGB mode active"
+msgstr "Mode RVB actif"
+
+#: languages/gutenberg-translations.php:1016
+msgid "Hex color mode active"
+msgstr "Mode couleur héxadécimale actif"
+
+#: languages/gutenberg-translations.php:1013
+msgid "Hue/saturation/lightness mode active"
+msgstr "Mode teinte/saturation actif"
+
+#: languages/gutenberg-translations.php:1010
+msgid "Move the arrow left or right to change hue."
+msgstr "Déplacer les flèches vers la gauche ou la droite pour modifier la teinte."
+
+#: languages/gutenberg-translations.php:1007
+msgid "Hue value in degrees, from 0 to 359."
+msgstr "Valeur de la teinte en chiffres de 0 à 359."
+
+#: languages/gutenberg-translations.php:1004
+msgid "Alpha value, from 0 (transparent) to 1 (fully opaque)."
+msgstr "Valeur alpha de 0 (transparent) à 1 (complètement opaque)."
+
+#: languages/gutenberg-translations.php:890
+msgid "Stripes"
+msgstr "Rayures"
+
+#: languages/gutenberg-translations.php:704
+msgid "Your site doesn't include support for this block."
+msgstr "Votre dite n’inclut pas de support pour ce bloc."
+
+#: languages/gutenberg-translations.php:701
+msgid "Unrecognized Block"
+msgstr "Bloc non reconnu"
+
+#: languages/gutenberg-translations.php:698
+msgid "Your site doesn't include support for the \"%s\" block. You can leave this block intact or remove it entirely."
+msgstr "Votre site n’inclut pas le support pour le bloc \"%s\". Vous pouvez laisser ce bloc intact ou le retirer complètement."
+
+#: languages/gutenberg-translations.php:692
+msgid "Your site doesn't include support for the \"%s\" block. You can leave this block intact, convert its content to a Custom HTML block, or remove it entirely."
+msgstr "Votre site n’inclut pas le support du bloc « %s ». Vous pouvez laisser ce bloc tel quel, convertir son contenu en bloc HTML personnalisé ou le retirer complètement."
+
+#: languages/gutenberg-translations.php:689
+msgid "Media area"
+msgstr "Zone de média"
+
+#: languages/gutenberg-translations.php:686
+msgid "Edit Media"
+msgstr "Modifier le média"
+
+#: languages/gutenberg-translations.php:680
+msgid "Media & Text"
+msgstr "Média & texte"
+
+#: languages/gutenberg-translations.php:671
+msgid "Show media on right"
+msgstr "Afficher le média sur la droite"
+
+#: languages/gutenberg-translations.php:668
+msgid "Show media on left"
+msgstr "Afficher le média sur la gauche"
+
+#: languages/gutenberg-translations.php:441
+msgid "Open in New Tab"
+msgstr "Ouvrir dans un nouvel onglet"
+
+#: languages/gutenberg-translations.php:1061
+msgid "Move backward (left) or forward (right) by one day."
+msgstr "Revenir en arrière (gauche) ou avancer (droite) d’un jour."
+
+#: languages/gutenberg-translations.php:1067
+msgid "Move backward (up) or forward (down) by one week."
+msgstr "Revenir en arrière (haut) ou avancer (bas) d’une semaine."
+
+#: languages/gutenberg-translations.php:1046
+msgid "Click the right or left arrows to select other months in the past or the future."
+msgstr "Utilisez les flèches droite ou gauche pour sélectionner d’autres mois dans le passé ou le futur."
+
+#: languages/gutenberg-translations.php:2415
+msgctxt "editor button"
+msgid "Left to right"
+msgstr "De gauche à droite"
+
+#: languages/gutenberg-translations.php:208
+msgid "Cover"
+msgstr "Couverture"
+
+#: languages/gutenberg-translations.php:193
+msgid "Cover Settings"
+msgstr "Réglages de couverture"
+
+#: languages/gutenberg-translations.php:190
+msgid "Edit media"
+msgstr "Modifier le média"
+
+#: languages/gutenberg-translations.php:2466
+msgctxt "term"
+msgid "Available %s"
+msgstr "%s disponible"
+
+#: languages/gutenberg-translations.php:2463
+msgctxt "term"
+msgid "Search %s"
+msgstr "Recherche de %s"
+
+#: languages/gutenberg-translations.php:2261 lib/client-assets.php:1354
+msgid "Medium"
+msgstr "Moyen"
+
+#: languages/gutenberg-translations.php:2210
+msgid "Paste URL or type to search"
+msgstr "Copier l’URL ou saisir une recherche"
+
+#: languages/gutenberg-translations.php:2108
+msgid "Terms"
+msgstr "Termes"
+
+#: languages/gutenberg-translations.php:2035
+msgid "Are you ready to schedule?"
+msgstr "Voulez-vous planifier ?"
+
+#: languages/gutenberg-translations.php:1989
+msgid "Always show pre-publish checks."
+msgstr "Toujours afficher les vérifications de pré-publication."
+
+#: languages/gutenberg-translations.php:1926
+msgid "Take Over"
+msgstr "Prendre le contrôle"
+
+#: languages/gutenberg-translations.php:1923
+msgid "All Posts"
+msgstr "Toutes les publications"
+
+#. translators: 'post' is generic and may be of any type (post, page, etc.).
+#: languages/gutenberg-translations.php:1920
+msgid "Another user is currently working on this post, which means you cannot make changes, unless you take over."
+msgstr "Un autre utilisateur ou utilisatrice travaille actuellement sur cette publication, ce qui signifie que vous ne pouvez pas faire de modifications à moins que vous ne preniez le contrôle."
+
+#. translators: 'post' is generic and may be of any type (post, page, etc.).
+#: languages/gutenberg-translations.php:1916
+msgid "%s is currently working on this post, which means you cannot make changes, unless you take over."
+msgstr "%s travaille actuellement sur cette publication, ce qui signifie que vous ne pouvez pas faire de modifications à moins que vous ne preniez le contrôle."
+
+#: languages/gutenberg-translations.php:1912
+msgid "View all posts"
+msgstr "Voir toutes les publications"
+
+#. translators: 'post' is generic and may be of any type (post, page, etc.).
+#: languages/gutenberg-translations.php:1909
+msgid "Another user now has editing control of this post. Don't worry, your changes up to this moment have been saved"
+msgstr "Un autre utilisateur ou utilisatrice vient de prendre le contrôle d’édition sur cette publication. Ne vous inquiétez pas, les modifications faites avant que cela n’arrive ont été enregistrés"
+
+#. translators: 'post' is generic and may be of any type (post, page, etc.).
+#: languages/gutenberg-translations.php:1905
+msgid "%s now has editing control of this post. Don't worry, your changes up to this moment have been saved"
+msgstr "%s vient de prendre le contrôle d’édition sur cette publication. Ne vous inquiétez pas, les modifications faites avant que cela n’arrive ont été enregistrés"
+
+#: languages/gutenberg-translations.php:2038
+msgid "Your work will be published at the specified date and time."
+msgstr "Votre publication sera mise en ligne à la date et à l’heure spécifiées."
+
+#: languages/gutenberg-translations.php:1901
+msgid "Avatar"
+msgstr "Avatar"
+
+#: languages/gutenberg-translations.php:1898
+msgid "This post is already being edited."
+msgstr "Cette publication est déjà en cours de modification."
+
+#: languages/gutenberg-translations.php:1895
+msgid "Someone else has taken over this post."
+msgstr "Quelqu’un d’autre a pris le contrôle sur cette publication."
+
+#: languages/gutenberg-translations.php:1620
+msgid "This block contains unexpected or invalid content."
+msgstr "Ce bloc contient du contenu non valide ou inattendu."
+
+#. translators: Dialog title to fix block content
+#: languages/gutenberg-translations.php:1627
+msgid "Resolve Block"
+msgstr "Résoudre les problèmes de ce bloc"
+
+#: languages/gutenberg-translations.php:1594
+msgid "Convert to HTML"
+msgstr "Convertir en HTML"
+
+#: languages/gutenberg-translations.php:1415
+msgid "Enable Pre-publish Checks"
+msgstr "Activer les vérifications de pré-publication"
+
+#: languages/gutenberg-translations.php:1541
+msgid "This block can only be used once."
+msgstr "Ce bloc ne peut être utilisé qu’une fois."
+
+#: languages/gutenberg-translations.php:1511
+msgid "Exit Code Editor"
+msgstr "Sortir de l’éditeur de code"
+
+#: languages/gutenberg-translations.php:1508
+msgid "Editing Code"
+msgstr "Édition de code"
+
+#: languages/gutenberg-translations.php:1165
+msgid "Reset font size"
+msgstr "Réinitialiser la taille de police"
+
+#: languages/gutenberg-translations.php:1174
+msgid "Custom font size"
+msgstr "Taille de police personnalisée"
+
+#: languages/gutenberg-translations.php:790
+msgid "Solid Color"
+msgstr "Couleur unie"
+
+#: languages/gutenberg-translations.php:781
+msgid "Main Color"
+msgstr "Couleur principale"
+
+#: languages/gutenberg-translations.php:532
+msgid "HTML"
+msgstr "HTML"
+
+#: languages/gutenberg-translations.php:529
+msgid "Write HTML…"
+msgstr "Écriture de HTML…"
+
+#: languages/gutenberg-translations.php:351
+msgid "Media Settings"
+msgstr "Réglages des médias"
+
+#: languages/gutenberg-translations.php:202
+msgid "Overlay Color"
+msgstr "Couleur du masque"
+
+#: languages/gutenberg-translations.php:199
+msgid "Overlay"
+msgstr "Masque"
+
+#: languages/gutenberg-translations.php:155
+msgid "Insert Media"
+msgstr "Insérer un média"
+
+#. translators: %s: post title
+#: gutenberg.php:287
+msgid "Export &#8220;%s&#8221; as JSON"
+msgstr "Exporter « %s » en JSON"
+
+#: languages/gutenberg-translations.php:2365
+msgid "Reusable block imported successfully!"
+msgstr "Bloc réutilisable bien importé !"
+
+#: languages/gutenberg-translations.php:2359
+msgid "Invalid Reusable Block JSON file"
+msgstr "Fichier JSON de bloc réutilisable non valide"
+
+#: languages/gutenberg-translations.php:2356
+msgid "Invalid JSON file"
+msgstr "Fichier JSON non valide"
+
+#: languages/gutenberg-translations.php:2353
+msgid "Import from JSON"
+msgstr "Importer d’un JSON"
+
+#: languages/gutenberg-translations.php:2350
+msgid "Backtick"
+msgstr "Retour arrière"
+
+#: languages/gutenberg-translations.php:2347
+msgid "Period"
+msgstr "Période"
+
+#: languages/gutenberg-translations.php:2344
+msgid "Comma"
+msgstr "Virgule"
+
+#: languages/gutenberg-translations.php:1726
+msgid "Change type of %d block"
+msgid_plural "Change type of %d blocks"
+msgstr[0] "Modifier le type de %d bloc"
+msgstr[1] "Modifier le type de %d blocs"
+
+#: languages/gutenberg-translations.php:1590
+msgid "Current"
+msgstr "Actuel"
+
+#: languages/gutenberg-translations.php:1587
+msgid "After Conversion"
+msgstr "Après conversion"
+
+#: languages/gutenberg-translations.php:1584
+msgid "Change Alignment"
+msgstr "Modifier l’alignement"
+
+#: languages/gutenberg-translations.php:1566
+msgid "Change Text Alignment"
+msgstr "Modifier l’alignement du texte"
+
+#: languages/gutenberg-translations.php:902
+msgid "Template block used as a container."
+msgstr "Bloc modèle utilisé comme conteneur."
+
+#: languages/gutenberg-translations.php:899
+msgid "Reusable Template"
+msgstr "Modèle réutilisable"
+
+#: languages/gutenberg-translations.php:1475
+msgid "%d Block"
+msgid_plural "%d Blocks"
+msgstr[0] "%d bloc"
+msgstr[1] "%d blocs"
+
+#. translators: The 'escape' key on a keyboard.
+#: languages/gutenberg-translations.php:1367
+msgid "Escape"
+msgstr "ESC"
+
+#. translators: The forward-slash character. e.g. '/'.
+#: languages/gutenberg-translations.php:1389
+msgid "Forward-slash"
+msgstr "Barre oblique (slash)"
+
+#: gutenberg.php:291
+msgid "Export as JSON"
+msgstr "Exporter comme JSON"
+
+#: packages/block-library/src/archives/index.php:104
+msgid "No archives to show."
+msgstr "Aucune archive à afficher."
+
+#: languages/gutenberg-translations.php:2303
+msgid "This file is empty."
+msgstr "Ce fichier est vide."
+
+#: languages/gutenberg-translations.php:1747
+msgid "Title"
+msgstr "Titre"
+
+#: languages/gutenberg-translations.php:1294
+msgid "Fullscreen Mode"
+msgstr "Mode plein écran"
+
+#: languages/gutenberg-translations.php:1236
+msgid "View Posts"
+msgstr "Voir les publications"
+
+#: languages/gutenberg-translations.php:2297
+msgid "Sorry, this file type is not supported here."
+msgstr "Désolé ce type de fichier n’est pas pris en charge ici."
+
+#: languages/gutenberg-translations.php:1548
+msgid "Manage All Reusable Blocks"
+msgstr "Gérer tous les blocs réutilisables"
+
+#: lib/register.php:457
+msgid "Search Blocks"
+msgstr "Rechercher des blocs"
+
+#: post-content.php:31
+msgid "Beautiful landscape"
+msgstr "Beau panorama"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Noto Serif, translate this to 'off'. Do not translate into your own
+#. language.
+#: lib/client-assets.php:768
+msgctxt "Noto Serif font: on or off"
+msgid "on"
+msgstr "on"
+
+#: languages/gutenberg-translations.php:1986
+msgid "Close panel"
+msgstr "Fermer le panneau"
+
+#: languages/gutenberg-translations.php:1623
+msgid "Convert to Classic Block"
+msgstr "Convertir en bloc Classique"
+
+#: languages/gutenberg-translations.php:948
+msgid "Remove Poster Image"
+msgstr "Retirer l’image de couverture"
+
+#: languages/gutenberg-translations.php:941
+msgid "Select Poster Image"
+msgstr "Sélectionner une image de couverture"
+
+#: languages/gutenberg-translations.php:938
+msgid "Poster Image"
+msgstr "Image de couverture"
+
+#: languages/gutenberg-translations.php:911
+msgid "This block is deprecated. Please use the Columns block instead."
+msgstr "Ce bloc est obsolète. Veuillez utiliser le bloc Colonnes à la place."
+
+#: languages/gutenberg-translations.php:908
+msgid "Text Columns (deprecated)"
+msgstr "Colonnes de texte (obsolète)"
+
+#: languages/gutenberg-translations.php:878
+msgid "Create"
+msgstr "Créer"
+
+#: languages/gutenberg-translations.php:875
+msgid "Row Count"
+msgstr "Compteur de lignes"
+
+#: languages/gutenberg-translations.php:872
+msgid "Column Count"
+msgstr "Compteur de colonnes"
+
+#: languages/gutenberg-translations.php:848
+msgid "This block is deprecated. Please use the Paragraph block instead."
+msgstr "Ce bloc est obsolète. Veuillez utiliser le bloc Paragraphe à la place."
+
+#: languages/gutenberg-translations.php:845
+msgid "Subheading (deprecated)"
+msgstr "Sous-titre (obsolète)"
+
+#: languages/gutenberg-translations.php:800
+msgid "blockquote"
+msgstr "citation"
+
+#: languages/gutenberg-translations.php:96
+msgid "Create content, and save it to reuse across your site. Update the block, and the changes apply everywhere it’s used."
+msgstr "Créez vos contenus et enregistrez-les pour les réutiliser dans tout votre site. Mettez à jour le bloc, et ces modifications s’appliqueront partout où il est utilisé."
+
+#: languages/gutenberg-translations.php:1385
+msgid "Change the block type after adding a new paragraph."
+msgstr "Modifier le type de block après l’ajout d’un nouveau paragraphe."
+
+#: languages/gutenberg-translations.php:1288
+msgid "Spotlight Mode"
+msgstr "Mode « Mise en lumière »"
+
+#: languages/gutenberg-translations.php:1282
+msgid "Unified Toolbar"
+msgstr "Barre d’outils unifiée"
+
+#: languages/gutenberg-translations.php:2007
+msgid "Add tags"
+msgstr "Ajouter des étiquettes"
+
+#: languages/gutenberg-translations.php:2010
+msgid "Tags help users and search engines navigate your site and find your content. Add a few keywords to describe your post."
+msgstr "Les étiquettes aident les utilisateur et utilisatrices ainsi que les moteurs de recherche à naviguer sur votre site et à trouver vos contenus. Ajoutez quelques étiquettes pour décrire votre publication."
+
+#: languages/gutenberg-translations.php:2004
+msgid "Apply the \"%1$s\" format."
+msgstr "Appliquer le format « %1$s »."
+
+#: languages/gutenberg-translations.php:2001
+msgid "Your theme uses post formats to highlight different kinds of content, like images or videos. Apply a post format to see this special styling."
+msgstr "Votre thème utilise les formats de publication pour mettre en avant différents types de contenus, comme les images ou les vidéos. Appliquez un format de publication pour utiliser cette mise en forme spécifique."
+
+#: languages/gutenberg-translations.php:1998
+msgid "Use a post format"
+msgstr "Utiliser un format de publication"
+
+#: languages/gutenberg-translations.php:1706
+msgid "Insert After"
+msgstr "Insérer après"
+
+#: languages/gutenberg-translations.php:1703
+msgid "Insert Before"
+msgstr "Insérer avant"
+
+#. translators: 1: Number of selected blocks, 2: Position of selected blocks
+#: languages/gutenberg-translations.php:1674
+msgid "Move %1$d block from position %2$d down by one place"
+msgid_plural "Move %1$d blocks from position %2$d down by one place"
+msgstr[0] "Déplacer le bloc %1$d d’une place en dessous de %2$d"
+msgstr[1] "Déplacer les blocs %1$d d’une place en dessous de %2$d"
+
+#. translators: 1: Number of selected blocks, 2: Position of selected blocks
+#: languages/gutenberg-translations.php:1670
+msgid "Move %1$d block from position %2$d up by one place"
+msgid_plural "Move %1$d blocks from position %2$d up by one place"
+msgstr[0] "Déplacer le bloc %1$d d’une place en dessus de %2$d"
+msgstr[1] "Déplacer les blocs %1$d d’une place en dessus de %2$d"
+
+#. translators: 1: Type of block (i.e. Text, Image etc), 2: Position of
+#. selected block, 3: New position
+#: languages/gutenberg-translations.php:1656
+msgid "Move %1$s block from position %2$d up to position %3$d"
+msgstr "Déplacer le bloc %1$s de la position %2$d vers la position %3$d"
+
+#. translators: 1: Type of block (i.e. Text, Image etc), 2: Position of
+#. selected block, 3: New position
+#: languages/gutenberg-translations.php:1648
+msgid "Move %1$s block from position %2$d down to position %3$d"
+msgstr "Déplacer le bloc %1$s de la position %2$d vers la position %3$d"
+
+#: languages/gutenberg-translations.php:959
+msgid "movie"
+msgstr "vidéo"
+
+#: languages/gutenberg-translations.php:1379
+msgid "Insert a new block before the selected block(s)."
+msgstr "Insérer un nouveau block avant le ou les blocs sélectionnés."
+
+#: languages/gutenberg-translations.php:1376
+msgid "Remove the selected block(s)."
+msgstr "Retirer le ou les blocs sélectionnés."
+
+#: languages/gutenberg-translations.php:1373
+msgid "Duplicate the selected block(s)."
+msgstr "Dupliquer le ou les blocs sélectionnés."
+
+#: languages/gutenberg-translations.php:1370
+msgid "Block shortcuts"
+msgstr "Raccourcis pour les blocs"
+
+#: languages/gutenberg-translations.php:1363
+msgid "Clear selection."
+msgstr "Effacer la sélection."
+
+#: languages/gutenberg-translations.php:1360
+msgid "Select all text when typing. Press again to select all blocks."
+msgstr "Sélectionner tout le texte lors de la saisie. Appuyez à nouveau pour sélectionner tous les blocs."
+
+#: languages/gutenberg-translations.php:1357
+msgid "Selection shortcuts"
+msgstr "Raccourcis de sélection"
+
+#: languages/gutenberg-translations.php:1354
+msgid "Switch between Visual Editor and Code Editor."
+msgstr "Basculer de l’éditeur visuel à l’éditeur de code source."
+
+#: languages/gutenberg-translations.php:1348
+msgid "Navigate to the previous part of the editor (alternative)."
+msgstr "Naviguer vers la partie précédente de l’éditeur (alternative)."
+
+#: languages/gutenberg-translations.php:1342
+msgid "Navigate to the previous part of the editor."
+msgstr "Naviguer vers la partie précédente de l’éditeur."
+
+#: languages/gutenberg-translations.php:1333
+msgid "Show or hide the settings sidebar."
+msgstr "Afficher ou masquer la colonne latérale de réglages."
+
+#: languages/gutenberg-translations.php:1330
+msgid "Redo your last undo."
+msgstr "Remettre en place votre dernière annulation."
+
+#: languages/gutenberg-translations.php:1327
+msgid "Undo your last changes."
+msgstr "Annuler vos dernières modifications."
+
+#: languages/gutenberg-translations.php:1324
+msgid "Save your changes."
+msgstr "Enregistrer vos modifications."
+
+#: languages/gutenberg-translations.php:1321
+msgid "Display this help."
+msgstr "Afficher cette aide."
+
+#: languages/gutenberg-translations.php:1318
+msgid "Global shortcuts"
+msgstr "Raccourcis généraux"
+
+#: languages/gutenberg-translations.php:1315
+msgid "Display the selected text in a monospaced font."
+msgstr "Afficher le texte sélectionné avec une police à chasse fixe."
+
+#: languages/gutenberg-translations.php:1312
+msgid "Add a strikethrough to the selected text."
+msgstr "Barrer le texte sélectionné."
+
+#: languages/gutenberg-translations.php:1309
+msgid "Remove a link."
+msgstr "Retirer un lien."
+
+#: languages/gutenberg-translations.php:1306
+msgid "Convert the selected text into a link."
+msgstr "Convertir le texte sélectionné en lien."
+
+#: languages/gutenberg-translations.php:1303
+msgid "Underline the selected text."
+msgstr "Souligner le texte sélectionné."
+
+#: languages/gutenberg-translations.php:1300
+msgid "Make the selected text italic."
+msgstr "Passer le texte sélectionné en italique."
+
+#: languages/gutenberg-translations.php:1395
+msgid "Make the selected text bold."
+msgstr "Passer le texte sélectionné en gras."
+
+#: languages/gutenberg-translations.php:1382
+msgid "Insert a new block after the selected block(s)."
+msgstr "Insérer un nouveau bloc après le ou les blocs sélectionnés."
+
+#: languages/gutenberg-translations.php:1399
+msgid "Keyboard Shortcuts"
+msgstr "Raccourcis clavier"
+
+#: languages/gutenberg-translations.php:1392
+msgid "Text formatting"
+msgstr "Mise en forme du texte"
+
+#: languages/gutenberg-translations.php:1345
+msgid "Navigate to the next part of the editor (alternative)."
+msgstr "Naviguer vers la partie suivante de l’éditeur (alternative)."
+
+#: languages/gutenberg-translations.php:1339
+msgid "Navigate to the next part of the editor."
+msgstr "Naviguer vers la partie suivante de l’éditeur."
+
+#: post-content.php:145
+msgid "The WordPress community"
+msgstr "La communauté WordPress"
+
+#: post-content.php:79
+msgid "Matt Mullenweg, 2017"
+msgstr "Matt Mullenweg, 2017"
+
+#: post-content.php:145
+msgid "Code is Poetry"
+msgstr "Le code est une poésie."
+
+#: post-content.php:171
+msgid "Thanks for testing Gutenberg!"
+msgstr "Merci de tester Gutenberg !"
+
+#: post-content.php:163
+msgid "Help build Gutenberg"
+msgstr "Aidez à construire Gutenberg"
+
+#: post-content.php:104
+msgid "Media Rich"
+msgstr "Média enrichi"
+
+#: post-content.php:112
+msgid "Accessibility is important &mdash; don&#8217;t forget image alt attribute"
+msgstr "L’accessibilité est importante : n’oubliez pas l’attribut alt"
+
+#: post-content.php:141
+msgid "You can build any block you like, static or dynamic, decorative or plain. Here&#8217;s a pullquote block:"
+msgstr "Vous pouvez construire autant de blocs que vous voulez, statiques ou dynamiques, décoratifs ou ordinaires. Voici un bloc de citation en ligne :"
+
+#: post-content.php:88
+msgid "Blocks can be anything you need. For instance, you may want to add a subdued quote as part of the composition of your text, or you may prefer to display a giant stylized one. All of these options are available in the inserter."
+msgstr "Les blocs peuvent être utilisé pour tout ce que vous voulez. Par exemple, vous pourriez ajouter une citation en regard de votre texte, ou alors afficher une énorme citation. Toutes ces options sont disponibles dans l’outil d’insertion."
+
+#: post-content.php:127
+msgid "The above is a gallery with just two images. It&#8217;s an easier way to create visually appealing layouts, without having to deal with floats. You can also easily convert the gallery back to individual images again, by using the block switcher."
+msgstr "Ci-dessus, une galerie avec seulement deux images. C'est une méthode simple pour créer des mises en page attractives, sans avoir à faire flotter les images l’une contre l’autre. Vous pouvez aussi convertir la galerie vers des images individuelles, en utilisant le basculement d’un type de bloc à un autre."
+
+#: post-content.php:116
+msgid "Sure, the full-wide image can be pretty big. But sometimes the image is worth it."
+msgstr "Bien sûr, l’image pleine largeur peut être assez imposante. Mais parfois l’image peut en valoir la peine."
+
+#: post-content.php:108
+msgid "If you combine the new <strong>wide</strong> and <strong>full-wide</strong> alignments with galleries, you can create a very media rich layout, very quickly:"
+msgstr "Si vous combinez les nouveaux alignements <strong>large</strong> et <strong>pleine largeur</strong> avec des galeries, vous pouvez créer des mises en page enrichies très rapidement :"
+
+#. translators: %s: Gutenberg GitHub repository URL
+#: post-content.php:154
+msgid "If you want to learn more about how to build additional blocks, or if you are interested in helping with the project, head over to the <a href=\"%s\">GitHub repository</a>."
+msgstr "Si vous voulez en savoir plus sur la façon de construire des blocs additionnels, ou si vous souhaitez aider sur ce projet, rendez-vous sur le <a href=\"%s\">dépôt GitHub</a>."
+
+#: post-content.php:84
+msgid "The information corresponding to the source of the quote is a separate text field, similar to captions under images, so the structure of the quote is protected even if you select, modify, or remove the source. It&#8217;s always easy to add it back."
+msgstr "L’information correspondant à la source de la citation est un champ texte séparé, similaire aux légendes sous les images. Ainsi la structure de la citation est protégée même si vous sélectionnez, modifiez ou retirez la source. Il est toujours possible de la remettre en place rapidement."
+
+#: post-content.php:78
+msgid "The editor will endeavor to create a new page and post building experience that makes writing rich posts effortless, and has “blocks” to make it easy what today might take shortcodes, custom HTML, or “mystery meat” embed discovery."
+msgstr "L’éditeur s’efforcera de créer une nouvelle expérience de construction des publications qui rendra plus simple l’écriture de publications enrichies. Les blocs rendront simple ce qui nécessite aujourd’hui des codes courts, du HTML personnalisé et autres manipulations mystérieuses."
+
+#: post-content.php:131
+msgid "Any block can opt into these alignments. The embed block has them also, and is responsive out of the box:"
+msgstr "Tous les blocs proposent ce choix d’alignement. Le bloc de contenu embarqué le propose aussi, et cela est nativement responsive :"
+
+#: post-content.php:100
+msgid "You can change the amount of columns in your galleries by dragging a slider in the block inspector in the sidebar."
+msgstr "Vous pouvez changer le nombre de colonnes de vos galeries en faisant glisser la barre dans l’inspecteur de blocs de la colonne latérale."
+
+#: languages/gutenberg-translations.php:93
+msgid "Reusable Block"
+msgstr "Bloc réutilisable"
+
+#: languages/gutenberg-translations.php:545
+msgid "Alt Text (Alternative Text)"
+msgstr "Texte alternatif (texte alternatif)"
+
+#: languages/gutenberg-translations.php:2394
+msgctxt "button to expand options"
+msgid "More"
+msgstr "Plus"
+
+#: lib/client-assets.php:1483
+msgid "Welcome to the Gutenberg Editor"
+msgstr "Bienvenue dans l’éditeur Gutenberg"
+
+#: post-content.php:22
+msgid "A Picture is Worth a Thousand Words"
+msgstr "Une image vaut mille mots"
+
+#: post-content.php:56
+msgid "Images &amp; Videos"
+msgstr "Images &amp; Vidéos"
+
+#: post-content.php:57
+msgid "Galleries"
+msgstr "Galeries"
+
+#: post-content.php:55
+msgid "Text &amp; Headings"
+msgstr "Texte &amp; Titres"
+
+#: post-content.php:69
+msgid "Visual Editing"
+msgstr "Mode visuel"
+
+#: post-content.php:60
+msgid "And <em>Lists</em> like this one of course :)"
+msgstr "Et des <em>listes</em> comme celle-ci bien entendu :)"
+
+#: post-content.php:59
+msgid "Layout blocks, like Buttons, Hero Images, Separators, etc."
+msgstr "Blocs de mise en page, bouton « J’aime », bannières, séparateurs, etc."
+
+#: post-content.php:58
+msgid "Embeds, like YouTube, Tweets, or other WordPress posts."
+msgstr "Contenus embarqués, depuis YouTube, Twitter, ou d’autres publications WordPress."
+
+#: post-content.php:42
+msgid "The <em>Inserter</em> Tool"
+msgstr "L’outil d’<em>insertion</em>"
+
+#: post-content.php:38
+msgid "Try selecting and removing or editing the caption, now you don&#8217;t have to be careful about selecting the image or other text by mistake and ruining the presentation."
+msgstr "Essayez de sélectionner, de supprimer ou de modifier la légende. Maintenant vous n’avez plus besoin d’éviter de sélectionner l’image ou d’autres textes par erreur et de gâcher la mise en page."
+
+#: post-content.php:14
+msgid "... like this one, which is right aligned."
+msgstr "…comme celui-ci, qui est aligné à droite."
+
+#: post-content.php:18
+msgid "Headings are separate blocks as well, which helps with the outline and organization of your content."
+msgstr "Les niveaux de titres sont aussi des blocs spécifiques. Cela aide a organiser et mettre en valeur votre contenu."
+
+#: post-content.php:32
+msgid "If your theme supports it, you&#8217;ll see the \"wide\" button on the image toolbar. Give it a try."
+msgstr "Si votre thème le prend en charge, vous verrez le bouton « Large » dans la barre d’outils de l’image. Essayez."
+
+#: post-content.php:2
+msgid "Of Mountains &amp; Printing Presses"
+msgstr "À propos de montagnes & d’imprimerie"
+
+#: post-content.php:50
+msgid "Go give it a try, you may discover things WordPress can already add into your posts that you didn&#8217;t know about. Here&#8217;s a short list of what you can currently find there:"
+msgstr "Essayez-donc, vous pourrez découvrir des choses que WordPress peut ajouter dans vos publications que vous ne soupçonniez pas. Voici une liste non exhaustive de ce que vous allez trouver :"
+
+#: post-content.php:26
+msgid "Handling images and media with the utmost care is a primary focus of the new editor. Hopefully, you&#8217;ll find aspects of adding captions or going full-width with your pictures much easier and robust than before."
+msgstr "La prise en charge des images et des médias est un des objectifs principaux du nouvel éditeur. Nous espérons que vous découvrirez les avantages de l’ajout de légendes, de passer vos images en mode pleine largeur et de toute autre manipulation. De façon plus simple et robuste qu’auparavant."
+
+#: post-content.php:10
+msgid "What you are reading now is a <strong>text block</strong> the most basic block of all. The text block has its own controls to be moved freely around the post..."
+msgstr "Ce que vous lisez actuellement est un <strong>bloc paragraphe</strong>, le bloc le plus basique de tous. Le bloc paragraphe possède ses propres commandes lui permettant d’être déplacé librement au sein de la publication."
+
+#: post-content.php:73
+msgid "A huge benefit of blocks is that you can edit them in place and manipulate your content directly. Instead of having fields for editing things like the source of a quote, or the text of a button, you can directly change the content. Try editing the following quote:"
+msgstr "Un grand avantage des blocs réside dans le fait que vous pouvez les modifier en direct et ainsi manipuler votre contenu en direct. Au lieu d’avoir des champs pour éditer ne serait-ce que l’auteur d’une citation, ou le texte d’un bouton, vous pouvez changer ces contenus directement. Essayez de modifier la citation suivante :"
+
+#: post-content.php:6
+msgid "The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of <em>pieces of content</em>—somewhat similar to LEGO bricks—that you can move around and interact with. Move your cursor around and you&#8217;ll notice the different blocks light up with outlines and arrows. Press the arrows to reposition blocks quickly, without fearing about losing things in the process of copying and pasting."
+msgstr "Le but de ce nouvel éditeur est de rendre l’ajout de contenus riches simple et ludique. Cette publication toute entière est composée de <em>morceaux de contenus</em> – un peu comme des briques Lego – que vous pouvez déplacer et avec lesquels vous pouvez interagir. Déplacez votre curseur un peu partout et vous verrez les différents blocs se mettre en évidence. Appuyez sur les flèches pour repositionner rapidement les blocs, sans crainte de perdre des choses dans l’action de copier et coller."
+
+#: languages/gutenberg-translations.php:2077
+msgid "Are you sure you want to unschedule this post?"
+msgstr "Confirmez-vous la déplanification de cette publication ?"
+
+#: languages/gutenberg-translations.php:2412
+msgctxt "block name"
+msgid "More"
+msgstr "Lire la suite"
+
+#: post-content.php:46
+msgid "Imagine everything that WordPress can do is available to you quickly and in the same place on the interface. No need to figure out HTML tags, classes, or remember complicated shortcode syntax. That&#8217;s the spirit behind the inserter—the <code>(+)</code> button you&#8217;ll see around the editor—which allows you to browse all available content blocks and add them into your post. Plugins and themes are able to register their own, opening up all sort of possibilities for rich editing and publishing."
+msgstr "Rendez-vous compte de ce que WordPress vous permet de faire rapidement et à partir d’une seule et même interface. Inutile de vous embêter avec des balises HTML, des classes ou des codes courts à la syntaxe compliquée. C’est l’esprit qui anime l’éditeur – voir le bouton <code>(+)</code> dans l’éditeur – qui vous permet de parcourir tous les blocs de contenu disponibles pour les ajouter à vos publications. Les extensions et les thèmes sont capables d’ajouter leurs propres blocs, ce qui ouvre la voie à toutes sortes de possibilités."
+
+#: lib/compat.php:233
+msgid "Continue to Classic Editor"
+msgstr "Aller à l’éditeur classique"
+
+#: lib/compat.php:232
+msgid "Edit in Gutenberg"
+msgstr "Modifier avec Gutenberg"
+
+#: lib/compat.php:226
+msgid "Because this post does not have revisions, you will not be able to revert any changes you make in the Classic Editor."
+msgstr "Puisque cette publication ne possède pas de révision, vous ne pourrez pas revenir en arrière sur les modifications faites avec l’éditeur classique."
+
+#: lib/compat.php:213
+msgid "This post was previously edited in Gutenberg. You can continue in the Classic Editor, but you may lose data and formatting."
+msgstr "Cette publication a été précédemment modifiée avec Gutenberg. Vous pouvez continuer avec l’éditeur classique, mais vous pourriez perdre des données ou leur formatage."
+
+#: lib/class-wp-rest-search-controller.php:358
+msgid "Invalid type parameter."
+msgstr "Paramètre type non valide."
+
+#: lib/class-wp-rest-search-controller.php:303
+msgid "Limit results to items of one or more object subtypes."
+msgstr "Limiter les résultats des éléments d’un ou plusieurs sous-types d’objets."
+
+#: lib/class-wp-rest-search-controller.php:296
+msgid "Limit results to items of an object type."
+msgstr "Limiter les résultats aux éléments d’un type d’objet."
+
+#: lib/class-wp-rest-search-controller.php:260
+msgid "Object subtype."
+msgstr "Sous-type d’objet."
+
+#: lib/class-wp-rest-search-controller.php:253
+msgid "Object type."
+msgstr "Type d’objet."
+
+#: lib/class-wp-rest-search-controller.php:246
+msgid "URL to the object."
+msgstr "URL de l’objet."
+
+#: lib/class-wp-rest-search-controller.php:240
+msgid "The title for the object."
+msgstr "Le titre de cet objet."
+
+#: lib/class-wp-rest-search-controller.php:234
+msgid "Unique identifier for the object."
+msgstr "Identifiant unique de cet objet."
+
+#: lib/class-wp-rest-search-controller.php:149
+msgid "The page number requested is larger than the number of pages available."
+msgstr "Le nombre de pages demandé est plus grand que le nombre de pages disponible."
+
+#: lib/class-wp-rest-search-controller.php:132
+msgid "Internal search handler error."
+msgstr "Erreur interne de prise en charge de la recherche."
+
+#. translators: %s: PHP class name
+#: lib/class-wp-rest-search-controller.php:72
+msgid "REST search handlers must extend the %s class."
+msgstr "Les handlers de recherche REST doivent étendre la classe %s."
+
+#: languages/gutenberg-translations.php:2291
+msgid "Untitled Reusable Block"
+msgstr "Bloc réutilisable sans titre"
+
+#. translators: link to the post revisions page
+#: lib/compat.php:220
+msgid "You can also <a href=\"%s\">browse previous revisions</a> and restore a version of the post before it was edited in Gutenberg."
+msgstr "Vous pouvez aussi <a href=\"%s\">parcourir les révisions précédentes</a> et restaurer une version de la publication avant qu’elle n’ait été modifiée dans Gutenberg."
+
+#: languages/gutenberg-translations.php:1844
+msgid "(%s: %s)"
+msgstr "(%s : %s)"
+
+#: languages/gutenberg-translations.php:1715
+msgid "Remove from Reusable Blocks"
+msgstr "Retirer des blocs réutilisables"
+
+#: languages/gutenberg-translations.php:1709
+msgid "Add to Reusable Blocks"
+msgstr "Ajouter aux blocs réutilisables"
+
+#: languages/gutenberg-translations.php:695
+msgid "Keep as HTML"
+msgstr "Conserver en HTML"
+
+#: languages/gutenberg-translations.php:1738
+msgid "(current %s: %s)"
+msgstr "(%s actuel : %s)"
+
+#: languages/gutenberg-translations.php:1799
+msgid "Reusable"
+msgstr "Réutilisables"
+
+#: languages/gutenberg-translations.php:348
+msgid "Edit URL"
+msgstr "Modifier l’URL"
+
+#: languages/gutenberg-translations.php:106
+msgid "Color Settings"
+msgstr "Réglages de couleur"
+
+#. translators: %s: title/name of the reusable block
+#: languages/gutenberg-translations.php:100
+msgid "Reusable Block: %s"
+msgstr "Bloc réutilisable : %s"
+
+#: packages/block-library/src/latest-comments/index.php:146
+msgid "No comments to show."
+msgstr "Aucun commentaire à afficher."
+
+#: gutenberg.php:73
+msgid "https://wordpress.org/support/plugin/gutenberg"
+msgstr "https://wordpress.org/support/plugin/gutenberg"
+
+#: languages/gutenberg-translations.php:14
+msgid "Archives Settings"
+msgstr "Réglages des archives"
+
+#: gutenberg.php:71
+msgid "Support"
+msgstr "Support"
+
+#. translators: 1: author name (inside <a> or <span> tag, based on if they have
+#. a URL), 2: post title related to this comment
+#: packages/block-library/src/latest-comments/index.php:101
+msgid "%1$s on %2$s"
+msgstr "%1$s dans %2$s"
+
+#: languages/gutenberg-translations.php:932
+msgid "Muted"
+msgstr "En sourdine"
+
+#: languages/gutenberg-translations.php:929
+msgid "Video Settings"
+msgstr "Réglages vidéo"
+
+#: languages/gutenberg-translations.php:610
+msgid "recent comments"
+msgstr "commentaires récents"
+
+#: languages/gutenberg-translations.php:604
+msgid "Latest Comments"
+msgstr "Derniers commentaires"
+
+#: languages/gutenberg-translations.php:595
+msgid "Latest Comments Settings"
+msgstr "Réglages des derniers commentaires"
+
+#: languages/gutenberg-translations.php:205
+msgid "Background Opacity"
+msgstr "Opacité de l’arrière-plan"
+
+#: languages/gutenberg-translations.php:50
+msgid "Auto"
+msgstr "Auto"
+
+#: languages/gutenberg-translations.php:8
+msgid "The response is not a valid JSON response."
+msgstr "La réponse n’est pas une réponse JSON valide."
+
+#: lib/rest-api.php:265
+msgid "The current user can post HTML markup and JavaScript."
+msgstr "L’utilisateur actuel peut publier du code HTML et JavaScript."
+
+#: languages/gutenberg-translations.php:46
+msgid "Preload"
+msgstr "Préchargement"
+
+#: languages/gutenberg-translations.php:34
+msgid "Audio Settings"
+msgstr "Réglages audio"
+
+#: languages/gutenberg-translations.php:18
+msgid "Display as Dropdown"
+msgstr "Afficher en tant que liste déroulante"
+
+#: languages/gutenberg-translations.php:22
+msgid "Show Post Counts"
+msgstr "Afficher le nombre d’articles"
+
+#: packages/block-library/src/archives/index.php:62
+msgid "Select Week"
+msgstr "Sélectionner une semaine"
+
+#: packages/block-library/src/archives/index.php:65
+msgid "Select Post"
+msgstr "Sélectionner un article"
+
+#: packages/block-library/src/archives/index.php:59
+msgid "Select Day"
+msgstr "Sélectionner un jour"
+
+#: packages/block-library/src/archives/index.php:56
+msgid "Select Month"
+msgstr "Sélectionner un mois"
+
+#: packages/block-library/src/archives/index.php:53
+msgid "Select Year"
+msgstr "Sélectionner une année"
+
+#: languages/gutenberg-translations.php:25
+#: packages/block-library/src/archives/index.php:35
+msgid "Archives"
+msgstr "Archives"
+
+#. translators: accessibility text for the publish landmark region.
+#: languages/gutenberg-translations.php:1403
+msgid "Editor publish"
+msgstr "Publication depuis l’éditeur"
+
+#: languages/gutenberg-translations.php:589
+msgid "Display Excerpt"
+msgstr "Afficher l’extrait"
+
+#: languages/gutenberg-translations.php:601
+msgid "Display Date"
+msgstr "Afficher la date"
+
+#: languages/gutenberg-translations.php:598
+msgid "Display Avatar"
+msgstr "Afficher l’avatar"
+
+#: languages/gutenberg-translations.php:592
+msgid "Number of Comments"
+msgstr "Nombre de commentaires"
+
+#: languages/gutenberg-translations.php:28
+msgid "Display a monthly archive of your posts."
+msgstr "Affiche une archive mensuelle de vos articles."
+
+#: languages/gutenberg-translations.php:1690
+msgid "Remove Block"
+msgstr "Retirer le bloc"
+
+#: languages/gutenberg-translations.php:821
+msgid "Dots"
+msgstr "Points"
+
+#: languages/gutenberg-translations.php:1796
+msgid "Available block types"
+msgstr "Types de bloc disponibles"
+
+#: languages/gutenberg-translations.php:535
+msgid "Custom URL"
+msgstr "URL personnalisée"
+
+#: languages/gutenberg-translations.php:447
+msgid "Show Download Button"
+msgstr "Afficher le bouton télécharger"
+
+#: languages/gutenberg-translations.php:444
+msgid "Download Button Settings"
+msgstr "Réglages du bouton télécharger"
+
+#: languages/gutenberg-translations.php:436
+msgid "Link To"
+msgstr "Lier vers"
+
+#: languages/gutenberg-translations.php:431
+msgid "Text Link Settings"
+msgstr "Réglages de lien de texte"
+
+#: languages/gutenberg-translations.php:413
+msgid "The download button is hidden."
+msgstr "Le bouton télécharger est masqué."
+
+#: languages/gutenberg-translations.php:407
+msgid "pdf"
+msgstr "PDF"
+
+#: languages/gutenberg-translations.php:404
+msgid "document"
+msgstr "document"
+
+#: languages/gutenberg-translations.php:398
+msgid "Copy URL"
+msgstr "Copier l’URL"
+
+#: languages/gutenberg-translations.php:390
+msgid "Write file name…"
+msgstr "Écrire le nom du fichier..."
+
+#: languages/gutenberg-translations.php:387
+msgid "Edit file"
+msgstr "Modifier un fichier"
+
+#: languages/gutenberg-translations.php:381
+msgid "File"
+msgstr "Fichier"
+
+#: languages/gutenberg-translations.php:178
+msgid "A single column within a columns block."
+msgstr "Une colonne unique dans un bloc de colonnes."
+
+#: languages/gutenberg-translations.php:175
+msgid "Column"
+msgstr "Colonne"
+
+#: languages/gutenberg-translations.php:42
+msgid "Loop"
+msgstr "Boucle"
+
+#: languages/gutenberg-translations.php:38
+msgid "Autoplay"
+msgstr "Lecture auto"
+
+#: languages/gutenberg-translations.php:935
+msgid "Playback Controls"
+msgstr "Commandes de lecture"
+
+#: languages/gutenberg-translations.php:1196
+msgid "Close dialog"
+msgstr "Fermer la boîte de dialogue"
+
+#: languages/gutenberg-translations.php:2316
+msgid "Inline Image"
+msgstr "Image en ligne"
+
+#: languages/gutenberg-translations.php:134
+msgid "Outline"
+msgstr "Contour"
+
+#: languages/gutenberg-translations.php:815
+msgid "Short Line"
+msgstr "Ligne courte"
+
+#: languages/gutenberg-translations.php:818
+msgid "Wide Line"
+msgstr "Ligne large"
+
+#: languages/gutenberg-translations.php:573
+msgid "Link URL"
+msgstr "URL du lien"
+
+#: languages/gutenberg-translations.php:2264 lib/client-assets.php:1355
+msgid "Large"
+msgstr "Large"
+
+#: languages/gutenberg-translations.php:1732
+msgid "Transform To:"
+msgstr "Transformer en :"
+
+#: languages/gutenberg-translations.php:1786
+msgid "Inline Elements"
+msgstr "Éléments en ligne"
+
+#: languages/gutenberg-translations.php:1409
+msgid "Open publish panel"
+msgstr "Ouvrir le panneau de publication"
+
+#: languages/gutenberg-translations.php:2255
+msgid "Very dark gray"
+msgstr "Gris très foncé"
+
+#: languages/gutenberg-translations.php:2249
+msgid "Very light gray"
+msgstr "Gris très clair"
+
+#: languages/gutenberg-translations.php:2246
+msgid "Vivid cyan blue"
+msgstr "Bleu cyan vif"
+
+#: languages/gutenberg-translations.php:2243
+msgid "Pale cyan blue"
+msgstr "Bleu cyan pâle"
+
+#: languages/gutenberg-translations.php:2237
+msgid "Light green cyan"
+msgstr "Vert clair cyan"
+
+#: languages/gutenberg-translations.php:2240
+msgid "Vivid green cyan"
+msgstr "Cyan vert vif"
+
+#: languages/gutenberg-translations.php:2234
+msgid "Luminous vivid amber"
+msgstr "Ambre lumineux et vif"
+
+#: languages/gutenberg-translations.php:2231
+msgid "Luminous vivid orange"
+msgstr "Orange vif lumineux"
+
+#: languages/gutenberg-translations.php:2228
+msgid "Vivid red"
+msgstr "Rouge vif"
+
+#: languages/gutenberg-translations.php:2225
+msgid "Pale pink"
+msgstr "Rose pâle"
+
+#: languages/gutenberg-translations.php:2252
+msgid "Cyan bluish gray"
+msgstr "Gris bleuté cyan"
+
+#: languages/gutenberg-translations.php:1245
+msgid "Welcome to the wonderful world of blocks! Click the “+” (“Add block”) button to add a new block. There are blocks available for all kinds of content: you can insert text, headings, images, lists, and lots more!"
+msgstr "Bienvenue dans le monde des blocs ! Cliquez sur le bouton « + » (« Ajouter un bloc ») pour ajouter un nouveau bloc. Il y a des blocs disponibles pour toute sortes de contenu : vous pouvez insérer du texte, des en-têtes, des images, des listes, et bien plus encore !"
+
+#: languages/gutenberg-translations.php:410
+msgid "The download button is visible."
+msgstr "Le bouton de téléchargement est visible."
+
+#: languages/gutenberg-translations.php:2377
+msgid "Disable tips"
+msgstr "Désactiver les astuces"
+
+#: languages/gutenberg-translations.php:2374
+msgid "Got it"
+msgstr "J’ai compris"
+
+#: languages/gutenberg-translations.php:2371
+msgid "See next tip"
+msgstr "Voir l’astuce suivante"
+
+#: languages/gutenberg-translations.php:2368
+msgid "Gutenberg tips"
+msgstr "Astuces Gutenberg"
+
+#: languages/gutenberg-translations.php:2032
+msgid "When you’re ready, submit your work for review, and an Editor will be able to approve it for you."
+msgstr "Lorsque vous serez prêt·e, envoyez votre travail en relecture, ainsi un éditeur pourra l’approuver pour vous."
+
+#: languages/gutenberg-translations.php:2029
+msgid "Are you ready to submit for review?"
+msgstr "Êtes-vous prêt·e à l’envoyer pour relecture ?"
+
+#: languages/gutenberg-translations.php:945
+msgid "Replace image"
+msgstr "Remplacer l’image"
+
+#: languages/gutenberg-translations.php:1862
+msgid "Remove image"
+msgstr "Retirer l’image"
+
+#: languages/gutenberg-translations.php:2294
+msgid "Sorry, this file type is not permitted for security reasons."
+msgstr "Désolé, ce type de fichier n’est pas permis pour des raisons de sécurité."
+
+#: languages/gutenberg-translations.php:1693
+msgid "Hide options"
+msgstr "Masquer les options"
+
+#: languages/gutenberg-translations.php:1254
+msgid "You’ll find more settings for your page and blocks in the sidebar. Click “Settings” to open it."
+msgstr "Vous trouverez plus de réglages pour votre page et vos blocs dans la colonne latérale. Cliquez sur « Réglages » pour l’ouvrir."
+
+#: languages/gutenberg-translations.php:1950
+msgid "Click “Preview” to load a preview of this page, so you can make sure you’re happy with your blocks."
+msgstr "Cliquez sur « Prévisualiser » pour charger une prévisualisation de cette page, afin de vous assurer que vos blocs vous conviennent."
+
+#: languages/gutenberg-translations.php:1965
+msgid "Finished writing? That’s great, let’s get this published right now. Just click “Publish” and you’re good to go."
+msgstr "Vous avez fini de rédiger ? Super, publions ceci maintenant. Cliquez sur « Publier » et nous serons prêts à y aller."
+
+#: lib/class-wp-rest-autosaves-controller.php:279
+msgid "Preview link for the post."
+msgstr "Lien de prévisualisation du contenu."
+
+#: lib/class-wp-rest-autosaves-controller.php:330
+msgid "There is nothing to save. The autosave and the post content are the same."
+msgstr "Il n’y a rien à enregistrer. Le contenu actuel et le contenu auto-enregistré sont identiques."
+
+#: lib/class-wp-rest-autosaves-controller.php:230
+msgid "There is no autosave revision for this post."
+msgstr "Il n’y a pas de révision auto-enregistrée pour ce contenu."
+
+#: lib/class-wp-rest-autosaves-controller.php:224
+msgid "Invalid parent post ID."
+msgstr "ID de contenu parent non valide."
+
+#: lib/class-wp-rest-autosaves-controller.php:160
+msgid "Invalid item ID."
+msgstr "ID d’élément non valide."
+
+#: lib/class-wp-rest-autosaves-controller.php:116
+msgid "The ID for the object."
+msgstr "L’ID de l’objet."
+
+#: lib/class-wp-rest-autosaves-controller.php:86
+#: lib/class-wp-rest-autosaves-controller.php:112
+msgid "The ID for the parent of the object."
+msgstr "L’ID pour le parent de l’objet."
+
+#. translators: %s: file name
+#: languages/gutenberg-translations.php:2307
+msgid "Error while uploading file %s to the media library."
+msgstr "Erreur lors du téléversement du fichier %s dans la bibliothèque de médias."
+
+#: languages/gutenberg-translations.php:2156
+msgid "View the autosave"
+msgstr "Voir l’enregistrement automatique"
+
+#: languages/gutenberg-translations.php:2153
+msgid "There is an autosave of this post that is more recent than the version below."
+msgstr "Il existe un enregistrement automatique plus récent pour ce contenu."
+
+#: languages/gutenberg-translations.php:2062
+msgid "Autosaving"
+msgstr "Enregistrement automatique"
+
+#: languages/gutenberg-translations.php:2300
+msgid "This file exceeds the maximum upload size for this site."
+msgstr "Ce fichier dépasse la taille maximum de téléversement de ce site."
+
+#: languages/gutenberg-translations.php:1814
+msgid "Drag a video, upload a new one or select a file from your library."
+msgstr "Glisser une vidéo, téléverser une nouvelle ou sélectionner un fichier dans la bibliothèque."
+
+#: languages/gutenberg-translations.php:1456
+msgid "Pin to toolbar"
+msgstr "Épingler à la barre d’outils"
+
+#: languages/gutenberg-translations.php:1453
+msgid "Unpin from toolbar"
+msgstr "Décrocher de la barre d’outils"
+
+#: languages/gutenberg-translations.php:884
+msgid "Table Settings"
+msgstr "Réglages du tableau"
+
+#: languages/gutenberg-translations.php:887
+msgid "Fixed width table cells"
+msgstr "Cellules de tableau à largeur fixe"
+
+#: languages/gutenberg-translations.php:2362
+msgid "Unknown error"
+msgstr "Erreur inconnue"
+
+#. translators: %s: error message describing the problem
+#: languages/gutenberg-translations.php:1230
+msgid "Error loading block: %s"
+msgstr "Erreur de chargement du bloc : %s"
+
+#: languages/gutenberg-translations.php:1233
+msgid "No results found."
+msgstr "Aucun résultat trouvé."
+
+#: languages/gutenberg-translations.php:765
+msgid "Add text that respects your spacing and tabs, and also allows styling."
+msgstr "Ajoute du texte qui respecte les espacements et tabulation, et qui autorise également de la mise en forme."
+
+#: languages/gutenberg-translations.php:632
+msgid "Display a list of your most recent posts."
+msgstr "Affiche une liste de vos articles les plus récents."
+
+#: languages/gutenberg-translations.php:181
+msgid "Add a block that displays content in multiple columns, then add whatever content blocks you’d like."
+msgstr "Ajoute un bloc qui affiche le contenu en plusieurs colonnes, dans lesquelles vous pouvez placer n’importe quels blocs de contenus."
+
+#. translators: %s: Name of service (e.g. VideoPress, YouTube)
+#: languages/gutenberg-translations.php:376
+msgid "Add a block that displays content pulled from other sites, like Twitter, Instagram or YouTube."
+msgstr "Ajoute un bloc affichant du contenu récupéré d’autres sites, comme Twitter, Instagram ou YouTube."
+
+#: languages/gutenberg-translations.php:896
+msgid "Insert a table — perfect for sharing charts and data."
+msgstr "Insérer un tableau — parfait pour partager des graphiques et des données."
+
+#: languages/gutenberg-translations.php:2460
+msgctxt "term"
+msgid "Remove %s"
+msgstr "Retirer %s"
+
+#: languages/gutenberg-translations.php:1944
+msgid "Copy the permalink"
+msgstr "Copier le permalien"
+
+#: languages/gutenberg-translations.php:1941
+msgid "Permalink copied"
+msgstr "Permalien copié"
+
+#: languages/gutenberg-translations.php:842
+msgid "Height in pixels"
+msgstr "Hauteur en pixels"
+
+#: lib/rest-api.php:101
+msgid "Embed Handler"
+msgstr "Prise en charge des contenus embarqués"
+
+#: lib/class-wp-rest-block-renderer-controller.php:169
+msgid "The rendered block."
+msgstr "Le bloc rendu."
+
+#: lib/class-wp-rest-block-renderer-controller.php:94
+msgid "Sorry, you are not allowed to read Gutenberg blocks of this post"
+msgstr "Désolé, vous n’avez pas la permission de lire les blocs Gutenberg de ce contenu"
+
+#: lib/class-wp-rest-block-renderer-controller.php:64
+msgid "ID of the post context."
+msgstr "ID de ce contenu/contexte."
+
+#. translators: %s is the name of the block
+#: lib/class-wp-rest-block-renderer-controller.php:58
+msgid "Attributes for %s block"
+msgstr "Attributs du bloc %s"
+
+#: lib/class-wp-rest-block-renderer-controller.php:46
+msgid "Unique registered name for the block."
+msgstr "Nom unique enregistré de ce bloc."
+
+#: languages/gutenberg-translations.php:839
+msgid "Spacer Settings"
+msgstr "Réglages de l’espacement"
+
+#: languages/gutenberg-translations.php:833
+msgid "Spacer"
+msgstr "Espacement"
+
+#: languages/gutenberg-translations.php:750
+msgid "Toggle to show a large initial letter."
+msgstr "Cliquer pour afficher une lettrine."
+
+#: languages/gutenberg-translations.php:747
+msgid "Showing large initial letter."
+msgstr "Affichage de la lettrine."
+
+#: languages/gutenberg-translations.php:78
+msgid "Name:"
+msgstr "Nom :"
+
+#. translators: 1: term name, 2: term position in a set of terms, 3: total term
+#. set count.
+#: languages/gutenberg-translations.php:1193
+msgid "%1$s (%2$s of %3$s)"
+msgstr "%1$s (%2$s sur %3$s)"
+
+#: languages/gutenberg-translations.php:1189
+msgid "Remove item"
+msgstr "Retirer l’élément"
+
+#. translators: %s: color hex code e.g: "#f00".
+#: languages/gutenberg-translations.php:1001
+msgid "Color code: %s"
+msgstr "Code couleur : %s"
+
+#: lib/class-wp-rest-block-renderer-controller.php:141
+msgid "Invalid block."
+msgstr "Bloc non valide."
+
+#: lib/rest-api.php:157
+msgid "Whether to show the taxonomy in the quick/bulk edit panel."
+msgstr "Si les taxonomies sont affichées ou non dans les panneaux d’édition par lot ou de modification rapide."
+
+#: lib/rest-api.php:153
+msgid "Whether to make the taxonomy available for selection in navigation menus."
+msgstr "Si les taxonomies sont sélectionnables ou non dans les menus de navigation."
+
+#: lib/rest-api.php:149
+msgid "Whether to allow automatic creation of taxonomy columns on associated post-types table."
+msgstr "Si la création automatique de colonnes de taxonomies est autorisée ou non dans le tableau post-types."
+
+#: lib/rest-api.php:145
+msgid "Whether to generate a default UI for managing this taxonomy."
+msgstr "S’il faut générer ou non une UI par défaut pour gérer cette taxonomie."
+
+#: lib/rest-api.php:141
+msgid "Whether the taxonomy is publicly queryable."
+msgstr "Si la taxonomie est interrogeable publiquement ou non."
+
+#: lib/rest-api.php:137
+msgid "Whether a taxonomy is intended for use publicly either via the admin interface or by front-end users."
+msgstr "Si une taxonomie peut être utilisée publiquement par l’interface d’administration ou par les utilisateurs en frontal."
+
+#: lib/rest-api.php:131
+msgid "The visibility settings for the taxonomy."
+msgstr "Les réglages de visibilité de la taxonomie."
+
+#: languages/gutenberg-translations.php:2159
+msgid "Skip to the selected block"
+msgstr "Aller au bloc sélectionné."
+
+#: languages/gutenberg-translations.php:1957
+msgid "Schedule…"
+msgstr "Planification…"
+
+#: languages/gutenberg-translations.php:1938
+msgid "Change Permalinks"
+msgstr "Modifier les permaliens"
+
+#: languages/gutenberg-translations.php:1932
+msgid "Edit post permalink"
+msgstr "Modifier le permalien du contenu"
+
+#: languages/gutenberg-translations.php:1523
+msgid "Show Block Settings"
+msgstr "Afficher les réglages du bloc"
+
+#: languages/gutenberg-translations.php:1520
+msgid "Hide Block Settings"
+msgstr "Masquer les réglages du bloc"
+
+#: languages/gutenberg-translations.php:1514
+msgid "Block settings closed"
+msgstr "Réglages du bloc fermés"
+
+#: languages/gutenberg-translations.php:1450
+msgid "Close plugin"
+msgstr "Fermer l’extension"
+
+#: languages/gutenberg-translations.php:1500
+msgid "Editor settings"
+msgstr "Réglages de l’éditeur"
+
+#: languages/gutenberg-translations.php:570
+msgid "Link Settings"
+msgstr "Réglages de lien"
+
+#: languages/gutenberg-translations.php:2322
+msgid "Unlink"
+msgstr "Supprimer le lien"
+
+#: languages/gutenberg-translations.php:716
+msgid "Page break"
+msgstr "Saut de page"
+
+#: languages/gutenberg-translations.php:728
+msgid "pagination"
+msgstr "pagination"
+
+#: languages/gutenberg-translations.php:725
+msgid "next page"
+msgstr "page suivante"
+
+#: languages/gutenberg-translations.php:561
+msgid "Image Size"
+msgstr "Taille d’image"
+
+#: languages/gutenberg-translations.php:558
+msgid "Height"
+msgstr "Hauteur"
+
+#: languages/gutenberg-translations.php:555
+msgid "Width"
+msgstr "Largeur"
+
+#: languages/gutenberg-translations.php:552
+msgid "Image Dimensions"
+msgstr "Dimensions de l’image"
+
+#: languages/gutenberg-translations.php:453
+msgid "Thumbnails are not cropped."
+msgstr "Les miniatures ne sont pas recadrées."
+
+#: languages/gutenberg-translations.php:450
+msgid "Thumbnails are cropped to align."
+msgstr "Les miniatures sont recadrées pour s’aligner."
+
+#: languages/gutenberg-translations.php:1823
+msgid "Media Library"
+msgstr "Bibliothèque de médias"
+
+#: languages/gutenberg-translations.php:1961
+msgid "Publish…"
+msgstr "Publier…"
+
+#: languages/gutenberg-translations.php:1606
+msgid "Advanced"
+msgstr "Avancé"
+
+#: languages/gutenberg-translations.php:1177
+msgid "Add item"
+msgstr "Ajouter un élément"
+
+#: languages/gutenberg-translations.php:2192
+msgid "Reset the template"
+msgstr "Réinitialiser le modèle"
+
+#: languages/gutenberg-translations.php:2189
+msgid "Keep it as is"
+msgstr "Laisser tel quel"
+
+#: languages/gutenberg-translations.php:2165
+msgid "Document Statistics"
+msgstr "Statistiques du document"
+
+#: languages/gutenberg-translations.php:2020
+msgid "is now scheduled. It will go live on"
+msgstr "est maintenant planifié. Il sera publié le"
+
+#: languages/gutenberg-translations.php:1992
+msgid "Scheduled"
+msgstr "Planifié"
+
+#: languages/gutenberg-translations.php:1974
+msgid "Scheduling…"
+msgstr "Planification…"
+
+#: languages/gutenberg-translations.php:1554
+msgid "Code editor selected"
+msgstr "Éditeur de code sélectionné"
+
+#: languages/gutenberg-translations.php:1551
+msgid "Visual editor selected"
+msgstr "Éditeur visuel sélectionné"
+
+#: languages/gutenberg-translations.php:1276
+msgid "Plugins"
+msgstr "Extensions"
+
+#: languages/gutenberg-translations.php:1168
+msgid "Custom Size"
+msgstr "Taille personnalisée"
+
+#: languages/gutenberg-translations.php:473
+msgid "Upload an image"
+msgstr "Téléverser une image"
+
+#: languages/gutenberg-translations.php:2183
+msgid "Resetting the template may result in loss of content, do you want to continue?"
+msgstr "Réinitialiser le modèle peut résulter à la perte de contenus, voulez-vous continuer ?"
+
+#: languages/gutenberg-translations.php:2186
+msgid "The content of your post doesn’t match the template assigned to your post type."
+msgstr "Le contenu ne correspond pas au modèle assigné au type de contenus."
+
+#: languages/gutenberg-translations.php:968 lib/client-assets.php:1309
+msgid "Layout Elements"
+msgstr "Mise en page"
+
+#: languages/gutenberg-translations.php:2457
+msgctxt "term"
+msgid "%s removed"
+msgstr "%s supprimé"
+
+#: languages/gutenberg-translations.php:2454
+msgctxt "term"
+msgid "%s added"
+msgstr "%s ajouté"
+
+#: languages/gutenberg-translations.php:2447
+msgctxt "imperative verb"
+msgid "Preview"
+msgstr "Prévisualiser"
+
+#: languages/gutenberg-translations.php:2288
+msgid "Block deleted."
+msgstr "Bloc supprimé."
+
+#: languages/gutenberg-translations.php:2285 lib/register.php:467
+msgid "Block updated."
+msgstr "Bloc mis à jour."
+
+#: languages/gutenberg-translations.php:2282
+msgid "Block created."
+msgstr "Bloc créé."
+
+#: languages/gutenberg-translations.php:2279
+msgid "Trashing failed"
+msgstr "Suppression échouée"
+
+#: languages/gutenberg-translations.php:2276
+msgid "Updating failed"
+msgstr "Mise à jour échouée"
+
+#: languages/gutenberg-translations.php:2273
+msgid "Scheduling failed"
+msgstr "Planification échouée"
+
+#: languages/gutenberg-translations.php:2270
+msgid "Publishing failed"
+msgstr "Publication échouée"
+
+#: languages/gutenberg-translations.php:2180
+msgid "Document Outline"
+msgstr "Aperçu du document"
+
+#: languages/gutenberg-translations.php:2174
+msgid "Paragraphs"
+msgstr "Paragraphes"
+
+#: languages/gutenberg-translations.php:2171
+msgid "Headings"
+msgstr "Titres"
+
+#: languages/gutenberg-translations.php:2168
+msgid "Words"
+msgstr "Mots"
+
+#: languages/gutenberg-translations.php:2147
+msgid "Public"
+msgstr "Public"
+
+#: languages/gutenberg-translations.php:2144
+msgid "Protected with a password you choose. Only those with the password can view this post."
+msgstr "Protégé avec le mot de passe choisi. Ce contenu ne peut être affiché que par les personnes disposant de ce mot de passe."
+
+#: languages/gutenberg-translations.php:2141
+msgid "Password Protected"
+msgstr "Protégé par mot de passe"
+
+#: languages/gutenberg-translations.php:2138
+msgid "Only visible to site admins and editors."
+msgstr "Uniquement visible pour les administrateur·ices et les éditeur·ices."
+
+#: languages/gutenberg-translations.php:2135
+msgid "Private"
+msgstr "Privé"
+
+#: languages/gutenberg-translations.php:2150
+msgid "Visible to everyone."
+msgstr "Visible pour tout le monde."
+
+#: languages/gutenberg-translations.php:2129
+msgid "Use a secure password"
+msgstr "Utiliser un mot de passe sécurisé"
+
+#: languages/gutenberg-translations.php:2126
+msgid "Create password"
+msgstr "Créer un mot de passe"
+
+#: languages/gutenberg-translations.php:2120
+msgid "Move to trash"
+msgstr "Déplacer vers la corbeille"
+
+#: languages/gutenberg-translations.php:2105
+msgid "Parent Term"
+msgstr "Terme parent"
+
+#: languages/gutenberg-translations.php:2102
+msgid "Parent Category"
+msgstr "Catégorie parente"
+
+#: languages/gutenberg-translations.php:2099
+msgid "Add new term"
+msgstr "Ajouter un nouveau terme"
+
+#: languages/gutenberg-translations.php:2096
+msgid "Add new category"
+msgstr "Ajouter une nouvelle catégorie"
+
+#: languages/gutenberg-translations.php:2093
+msgid "Term"
+msgstr "Terme"
+
+#: languages/gutenberg-translations.php:2089
+msgid "Tag"
+msgstr "Étiquette"
+
+#: languages/gutenberg-translations.php:2086
+msgid "Add New Term"
+msgstr "Ajouter un nouveau terme"
+
+#: languages/gutenberg-translations.php:2083
+msgid "Add New Tag"
+msgstr "Ajouter une nouvelle étiquette"
+
+#: languages/gutenberg-translations.php:2080
+msgid "Switch to Draft"
+msgstr "Enregistrer en brouillon"
+
+#: languages/gutenberg-translations.php:2071
+msgid "Stick to the Front Page"
+msgstr "Épingler à la page d’accueil"
+
+#: languages/gutenberg-translations.php:2068
+msgid "Immediately"
+msgstr "Immédiatement"
+
+#: languages/gutenberg-translations.php:2059
+msgid "Save Draft"
+msgstr "Enregistrer le brouillon"
+
+#: languages/gutenberg-translations.php:2065
+msgid "Saving"
+msgstr "Enregistrement"
+
+#: languages/gutenberg-translations.php:2050
+msgid "Publish:"
+msgstr "Publier : "
+
+#: languages/gutenberg-translations.php:2047
+msgid "Visibility:"
+msgstr "Visibilité : "
+
+#: languages/gutenberg-translations.php:2017
+msgid "Copy Link"
+msgstr "Copier le lien"
+
+#: languages/gutenberg-translations.php:2026
+msgid "What’s next?"
+msgstr "Que faire après ?"
+
+#: languages/gutenberg-translations.php:2023
+msgid "is now live."
+msgstr "est maintenant en ligne."
+
+#: languages/gutenberg-translations.php:1995
+msgid "Published"
+msgstr "Publié"
+
+#: languages/gutenberg-translations.php:1983
+msgid "Schedule"
+msgstr "Planifier"
+
+#: languages/gutenberg-translations.php:1977
+msgid "Submit for Review"
+msgstr "Soumettre à la relecture"
+
+#: languages/gutenberg-translations.php:1971
+msgid "Updating…"
+msgstr "Mise à jour…"
+
+#: languages/gutenberg-translations.php:1968
+msgid "Publishing…"
+msgstr "Publication…"
+
+#: languages/gutenberg-translations.php:1947
+msgid "Allow Pingbacks & Trackbacks"
+msgstr "Autoriser les pings et les rétroliens"
+
+#: languages/gutenberg-translations.php:1935
+msgid "Permalink:"
+msgstr "Permalien :"
+
+#: languages/gutenberg-translations.php:1929
+msgid "Pending Review"
+msgstr "En attente de relecture"
+
+#: languages/gutenberg-translations.php:1892
+msgid "%d Revision"
+msgid_plural "%d Revisions"
+msgstr[0] "%d révision"
+msgstr[1] "%d révisions"
+
+#: languages/gutenberg-translations.php:1889
+msgid "Suggestion:"
+msgstr "Suggestion :"
+
+#: languages/gutenberg-translations.php:1878
+msgid "Status"
+msgstr "État"
+
+#: languages/gutenberg-translations.php:1875
+msgid "Standard"
+msgstr "Standard"
+
+#: languages/gutenberg-translations.php:1868
+msgid "Aside"
+msgstr "En passant"
+
+#: languages/gutenberg-translations.php:1859
+msgid "Set featured image"
+msgstr "Définir l’image mise en avant"
+
+#: languages/gutenberg-translations.php:1856
+msgid "Learn more about manual excerpts"
+msgstr "En apprendre plus sur les extraits manuels"
+
+#: languages/gutenberg-translations.php:1853
+msgid "Write an excerpt (optional)"
+msgstr "Rédiger un extrait (facultatif)"
+
+#: languages/gutenberg-translations.php:1850
+msgid "Allow Comments"
+msgstr "Autoriser les commentaires"
+
+#: lib/client-assets.php:1542
+msgid "Default template"
+msgstr "Modèle par défaut"
+
+#: languages/gutenberg-translations.php:1841
+msgid "Template:"
+msgstr "Modèle :"
+
+#: languages/gutenberg-translations.php:1835
+msgid "no title"
+msgstr "aucun titre"
+
+#: languages/gutenberg-translations.php:1832
+msgid "Order"
+msgstr "Ordre"
+
+#: languages/gutenberg-translations.php:1802 lib/register.php:458
+msgid "No blocks found."
+msgstr "Aucun bloc trouvé."
+
+#: languages/gutenberg-translations.php:2053
+msgid "Saved"
+msgstr "Enregistré"
+
+#: languages/gutenberg-translations.php:2177
+msgid "Blocks"
+msgstr "Blocs"
+
+#: languages/gutenberg-translations.php:1793
+msgid "Search for a block"
+msgstr "Rechercher un bloc"
+
+#: languages/gutenberg-translations.php:1611
+msgid "Add block"
+msgstr "Ajouter un bloc"
+
+#: languages/gutenberg-translations.php:1771
+msgid "Attempt Recovery"
+msgstr "Tentative de récupération"
+
+#: languages/gutenberg-translations.php:1780
+msgid "The editor has encountered an unexpected error."
+msgstr "L’éditeur a rencontré une erreur inattendue."
+
+#: languages/gutenberg-translations.php:1768
+msgid "Undo"
+msgstr "Défaire"
+
+#: languages/gutenberg-translations.php:1765
+msgid "Redo"
+msgstr "Rétablir"
+
+#: languages/gutenberg-translations.php:1762
+msgid "(Click to focus this heading)"
+msgstr "(cliquer pour placer le focus sur ce titre)"
+
+#: languages/gutenberg-translations.php:1759
+msgid "(Multiple H1 headings are not recommended)"
+msgstr "(il est déconseillé d’utiliser plusieurs titres H1)"
+
+#: languages/gutenberg-translations.php:1753
+msgid "(Incorrect heading level)"
+msgstr "(niveau de titre erroné)"
+
+#: languages/gutenberg-translations.php:1718
+msgid ""
+"Are you sure you want to delete this Reusable Block?\n"
+"\n"
+"It will be permanently removed from all posts and pages that use it."
+msgstr ""
+"Confirmez-vous la suppression de ce bloc réutilisable ?\n"
+"\n"
+"Il sera retiré définitivement de tous les contenus qui l’utilisent."
+
+#: languages/gutenberg-translations.php:1687
+msgid "Edit visually"
+msgstr "Modifier visuellement"
+
+#: languages/gutenberg-translations.php:1700
+msgid "Duplicate"
+msgstr "Dupliquer"
+
+#. translators: %s: Type of block (i.e. Text, Image etc)
+#: languages/gutenberg-translations.php:1660
+msgid "Block %s is at the beginning of the content and can’t be moved up"
+msgstr "Le bloc « %s » est au début du contenu et ne peut être déplacé plus haut"
+
+#. translators: %s: Type of block (i.e. Text, Image etc)
+#: languages/gutenberg-translations.php:1652
+msgid "Block %s is at the end of the content and can’t be moved down"
+msgstr "Le bloc \"%s\" est à la fin du contenu et ne peut pas être déplacé vers le bas"
+
+#: languages/gutenberg-translations.php:1640
+msgid "Move down"
+msgstr "Déplacer vers le bas"
+
+#: languages/gutenberg-translations.php:1637
+msgid "Move up"
+msgstr "Déplacer vers le haut"
+
+#: languages/gutenberg-translations.php:1684
+msgid "Edit as HTML"
+msgstr "Modifier en HTML"
+
+#: languages/gutenberg-translations.php:1631
+msgid "Convert to Blocks"
+msgstr "Convertir en blocs"
+
+#: languages/gutenberg-translations.php:1634
+msgid "Block: %s"
+msgstr "Bloc : %s"
+
+#: languages/gutenberg-translations.php:1617
+msgid "This block has encountered an error and cannot be previewed."
+msgstr "Ce bloc a rencontré une erreur et ne peut pas être prévisualisé."
+
+#: languages/gutenberg-translations.php:1614
+msgid "Block Toolbar"
+msgstr "Barre d’outils du bloc"
+
+#: languages/gutenberg-translations.php:1600
+msgid "No block selected."
+msgstr "Aucun bloc sélectionné."
+
+#: languages/gutenberg-translations.php:1597
+msgid "Coming Soon"
+msgstr "À venir prochainement"
+
+#: languages/gutenberg-translations.php:1538
+msgid "Transform into:"
+msgstr "Transformer en :"
+
+#: languages/gutenberg-translations.php:1535
+msgid "Remove"
+msgstr "Retirer"
+
+#: languages/gutenberg-translations.php:1532
+msgid "Find original"
+msgstr "Trouver l’original"
+
+#: languages/gutenberg-translations.php:1544
+msgid "Copy All Content"
+msgstr "Copier tout le contenu"
+
+#: languages/gutenberg-translations.php:395
+msgid "Copied!"
+msgstr "Copié !"
+
+#: languages/gutenberg-translations.php:1517
+msgid "Additional settings are now available in the Editor block settings sidebar"
+msgstr "Des réglages supplémentaires sont maintenant disponibles dans la colonne latérale des réglages avancés de l’éditeur"
+
+#: languages/gutenberg-translations.php:1469
+msgid "Visibility"
+msgstr "Visibilité"
+
+#: languages/gutenberg-translations.php:1466
+msgid "Status & Visibility"
+msgstr "État et visibilité"
+
+#: languages/gutenberg-translations.php:1438
+msgid "Page Attributes"
+msgstr "Attributs de page"
+
+#: languages/gutenberg-translations.php:1472
+msgid "Block"
+msgstr "Bloc"
+
+#. translators: ARIA label for the Block Settings sidebar tab, not selected.
+#: languages/gutenberg-translations.php:1491
+msgid "Block settings"
+msgstr "Réglages du bloc"
+
+#: languages/gutenberg-translations.php:1497
+msgid "Document"
+msgstr "Document"
+
+#. translators: ARIA label for the Document Settings sidebar tab, not selected.
+#: languages/gutenberg-translations.php:1483
+msgid "Document settings"
+msgstr "Réglages du document"
+
+#: languages/gutenberg-translations.php:1426
+msgid "Featured Image"
+msgstr "Image mise en avant"
+
+#: languages/gutenberg-translations.php:1494
+msgid "Close settings"
+msgstr "Fermer les réglages"
+
+#: languages/gutenberg-translations.php:1447
+msgid "Editor plugins"
+msgstr "Extensions de l’éditeur"
+
+#: languages/gutenberg-translations.php:1406
+msgid "Editor content"
+msgstr "Contenu de l’éditeur"
+
+#: languages/gutenberg-translations.php:1279
+msgid "Tools"
+msgstr "Outils"
+
+#: languages/gutenberg-translations.php:1263
+msgid "Editor"
+msgstr "Éditeur"
+
+#: languages/gutenberg-translations.php:1260
+msgid "Code Editor"
+msgstr "Éditeur de code"
+
+#: languages/gutenberg-translations.php:1257
+msgid "Visual Editor"
+msgstr "Éditeur visuel"
+
+#: languages/gutenberg-translations.php:1248
+msgid "Editor top bar"
+msgstr "Barre d’outils de l’éditeur"
+
+#: languages/gutenberg-translations.php:1251
+msgid "Settings"
+msgstr "Réglages"
+
+#: languages/gutenberg-translations.php:566
+msgid "Reset"
+msgstr "Réinitialiser "
+
+#: languages/gutenberg-translations.php:1199
+msgid "Dismiss this notice"
+msgstr "Désactiver cette notification"
+
+#: languages/gutenberg-translations.php:1186
+msgid "Item removed."
+msgstr "Élément retiré."
+
+#: languages/gutenberg-translations.php:1183
+msgid "Item added."
+msgstr "Élément ajouté."
+
+#: languages/gutenberg-translations.php:1157
+msgid "Drop files to upload"
+msgstr "Glisser les fichier à téléverser"
+
+#: languages/gutenberg-translations.php:1154
+msgid "PM"
+msgstr "après-midi"
+
+#: languages/gutenberg-translations.php:1151
+msgid "AM"
+msgstr "matin"
+
+#: languages/gutenberg-translations.php:11
+msgid "An unknown error occurred."
+msgstr "Une erreur inconnue est survenue."
+
+#: languages/gutenberg-translations.php:987
+msgid "No results."
+msgstr "Aucun résultat."
+
+#: languages/gutenberg-translations.php:982
+msgid "%d result found, use up and down arrow keys to navigate."
+msgid_plural "%d results found, use up and down arrow keys to navigate."
+msgstr[0] "%d résultat trouvé, vous pouvez naviguer avec les touches haut et bas."
+msgstr[1] "%d résultats trouvés, vous pouvez naviguer avec les touches haut et bas."
+
+#: languages/gutenberg-translations.php:418
+msgid "URL"
+msgstr "URL"
+
+#: languages/gutenberg-translations.php:2204
+msgid "Submit"
+msgstr "Envoyer"
+
+#: languages/gutenberg-translations.php:1091
+msgid "Close"
+msgstr "Fermer"
+
+#: languages/gutenberg-translations.php:2201
+msgid "Insert Link"
+msgstr "Insérer un lien"
+
+#: languages/gutenberg-translations.php:2198
+msgid "Edit Link"
+msgstr "Modifier le lien"
+
+#: languages/gutenberg-translations.php:1872
+msgid "Link"
+msgstr "Lien"
+
+#: languages/gutenberg-translations.php:2341
+msgid "Strikethrough"
+msgstr "Barrer"
+
+#: languages/gutenberg-translations.php:2319
+msgid "Italic"
+msgstr "Italique"
+
+#: languages/gutenberg-translations.php:2310
+msgid "Bold"
+msgstr "Gras"
+
+#: languages/gutenberg-translations.php:1226
+msgid "Number of items"
+msgstr "Nombre d’éléments"
+
+#: languages/gutenberg-translations.php:1223
+msgid "All"
+msgstr "Tout"
+
+#: languages/gutenberg-translations.php:1220
+msgid "Category"
+msgstr "Catégorie"
+
+#. translators: label for ordering posts by title in descending order
+#: languages/gutenberg-translations.php:1216
+msgid "Z → A"
+msgstr "Z \t A"
+
+#. translators: label for ordering posts by title in ascending order
+#: languages/gutenberg-translations.php:1212
+msgid "A → Z"
+msgstr "A \t Z"
+
+#: languages/gutenberg-translations.php:1208
+msgid "Oldest to Newest"
+msgstr "Des plus anciens aux plus récents"
+
+#: languages/gutenberg-translations.php:1205
+msgid "Newest to Oldest"
+msgstr "Des plus récents aux plus anciens"
+
+#: languages/gutenberg-translations.php:1202
+msgid "Order by"
+msgstr "Ordonner par"
+
+#: languages/gutenberg-translations.php:1526
+msgid "Select"
+msgstr "Sélectionner"
+
+#: languages/gutenberg-translations.php:1529
+msgid "Select or Upload Media"
+msgstr "Sélectionner ou téléverser un fichier"
+
+#: languages/gutenberg-translations.php:953
+msgid "Video"
+msgstr "Vidéo"
+
+#: languages/gutenberg-translations.php:926
+msgid "Edit video"
+msgstr "Modifier la vidéo"
+
+#: languages/gutenberg-translations.php:923
+msgid "Write…"
+msgstr "Rédiger…"
+
+#: languages/gutenberg-translations.php:920
+msgid "poetry"
+msgstr "poésie"
+
+#: languages/gutenberg-translations.php:914
+msgid "Verse"
+msgstr "Couplet"
+
+#: languages/gutenberg-translations.php:905
+msgid "New Column"
+msgstr "Ajouter une colonne"
+
+#: languages/gutenberg-translations.php:869
+msgid "Delete Column"
+msgstr "Supprimer une colonne"
+
+#: languages/gutenberg-translations.php:866
+msgid "Add Column After"
+msgstr "Ajouter une colonne à la suite"
+
+#: languages/gutenberg-translations.php:863
+msgid "Add Column Before"
+msgstr "Ajouter une colonne avant"
+
+#: languages/gutenberg-translations.php:860
+msgid "Delete Row"
+msgstr "Supprimer la ligne"
+
+#: languages/gutenberg-translations.php:857
+msgid "Add Row After"
+msgstr "Ajouter une ligne après"
+
+#: languages/gutenberg-translations.php:854
+msgid "Add Row Before"
+msgstr "Ajouter une ligne avant"
+
+#: languages/gutenberg-translations.php:881
+msgid "Edit Table"
+msgstr "Modifier le tableau"
+
+#: languages/gutenberg-translations.php:893
+msgid "Table"
+msgstr "Tableau"
+
+#: languages/gutenberg-translations.php:830
+msgid "Write shortcode here…"
+msgstr "Placer le code court ici…"
+
+#: languages/gutenberg-translations.php:827
+msgid "Shortcode"
+msgstr "Code court"
+
+#: languages/gutenberg-translations.php:812
+msgid "divider"
+msgstr "Séparateur"
+
+#: languages/gutenberg-translations.php:809
+msgid "horizontal-line"
+msgstr "Filet horizontal"
+
+#: languages/gutenberg-translations.php:803
+msgid "Separator"
+msgstr "Séparateur"
+
+#: languages/gutenberg-translations.php:794
+msgid "Quote"
+msgstr "Citation"
+
+#. translators: placeholder text used for the citation
+#: languages/gutenberg-translations.php:778
+msgid "Write citation…"
+msgstr "Rédiger une citation…"
+
+#. translators: placeholder text used for the quote
+#: languages/gutenberg-translations.php:773
+msgid "Write quote…"
+msgstr "Rédiger une citation…"
+
+#: languages/gutenberg-translations.php:768
+msgid "Write preformatted text…"
+msgstr "Rédiger un texte pré-formaté…"
+
+#: languages/gutenberg-translations.php:762
+msgid "Preformatted"
+msgstr "Pré-formaté"
+
+#: languages/gutenberg-translations.php:759
+msgid "text"
+msgstr "Texte"
+
+#: languages/gutenberg-translations.php:753
+msgid "Paragraph"
+msgstr "Paragraphe"
+
+#: languages/gutenberg-translations.php:731
+msgid "Text Settings"
+msgstr "Réglages du texte"
+
+#: languages/gutenberg-translations.php:650
+msgid "Write list…"
+msgstr "Rédiger une liste…"
+
+#: languages/gutenberg-translations.php:665
+msgid "numbered list"
+msgstr "Liste numérotée"
+
+#: languages/gutenberg-translations.php:662
+msgid "ordered list"
+msgstr "Liste ordonnée"
+
+#: languages/gutenberg-translations.php:659
+msgid "bullet list"
+msgstr "Liste à puces"
+
+#: languages/gutenberg-translations.php:647
+msgid "Indent list item"
+msgstr "Indenter l’élément de la liste"
+
+#: languages/gutenberg-translations.php:644
+msgid "Outdent list item"
+msgstr "Désindenter l’élément de la liste"
+
+#: languages/gutenberg-translations.php:641
+msgid "Convert to ordered list"
+msgstr "Convertir en liste ordonnée"
+
+#: languages/gutenberg-translations.php:638
+msgid "Convert to unordered list"
+msgstr "Convertir en liste non-ordonnée"
+
+#: languages/gutenberg-translations.php:653
+msgid "List"
+msgstr "Liste"
+
+#: languages/gutenberg-translations.php:623
+msgid "No posts found."
+msgstr "Aucun résultat."
+
+#: languages/gutenberg-translations.php:629
+msgid "Grid View"
+msgstr "Vue en grille"
+
+#: languages/gutenberg-translations.php:626
+msgid "List View"
+msgstr "Vue en liste"
+
+#: languages/gutenberg-translations.php:577
+msgid "photo"
+msgstr "photo"
+
+#: languages/gutenberg-translations.php:541
+msgid "Image Settings"
+msgstr "Réglages de l’image"
+
+#: languages/gutenberg-translations.php:583
+msgid "Image"
+msgstr "Image"
+
+#: languages/gutenberg-translations.php:526
+msgid "Preview"
+msgstr "Aperçu"
+
+#: languages/gutenberg-translations.php:516
+msgid "Custom HTML"
+msgstr "HTML personnalisé"
+
+#: languages/gutenberg-translations.php:513
+msgid "subtitle"
+msgstr "sous-titre"
+
+#: languages/gutenberg-translations.php:510
+msgid "title"
+msgstr "titre"
+
+#: languages/gutenberg-translations.php:504
+msgid "Heading"
+msgstr "Titre"
+
+#: languages/gutenberg-translations.php:497
+msgid "Write heading…"
+msgstr "Rédiger un titre…"
+
+#: languages/gutenberg-translations.php:491
+msgid "Level"
+msgstr "Niveau"
+
+#: languages/gutenberg-translations.php:488
+msgid "Heading Settings"
+msgstr "Réglages du titre"
+
+#: languages/gutenberg-translations.php:485
+msgid "photos"
+msgstr "photos"
+
+#: languages/gutenberg-translations.php:482
+msgid "images"
+msgstr "images"
+
+#: languages/gutenberg-translations.php:476
+msgid "Remove Image"
+msgstr "Retirer l’image"
+
+#: languages/gutenberg-translations.php:60
+msgid "None"
+msgstr "Aucun"
+
+#: languages/gutenberg-translations.php:423
+msgid "Media File"
+msgstr "Fichier média"
+
+#: languages/gutenberg-translations.php:428
+msgid "Attachment Page"
+msgstr "Page du fichier joint"
+
+#: languages/gutenberg-translations.php:470
+msgid "Crop Images"
+msgstr "Recadrer les images"
+
+#: languages/gutenberg-translations.php:467
+msgid "Gallery Settings"
+msgstr "Réglages de la galerie"
+
+#: languages/gutenberg-translations.php:461
+msgid "Gallery"
+msgstr "Galerie"
+
+#: languages/gutenberg-translations.php:456
+msgid "Edit Gallery"
+msgstr "Modifier la galerie"
+
+#: languages/gutenberg-translations.php:158
+msgid "Classic"
+msgstr "Classique"
+
+#: languages/gutenberg-translations.php:296
+msgid "video"
+msgstr "vidéo"
+
+#: languages/gutenberg-translations.php:253
+msgid "audio"
+msgstr "son"
+
+#: languages/gutenberg-translations.php:250
+msgid "music"
+msgstr "musique"
+
+#: languages/gutenberg-translations.php:327
+msgid "image"
+msgstr "image"
+
+#: languages/gutenberg-translations.php:314
+msgid "blog"
+msgstr "blog"
+
+#: languages/gutenberg-translations.php:366
+msgid "Embedded content from %s"
+msgstr "Contenu embarqué depuis %s"
+
+#: languages/gutenberg-translations.php:363
+msgid "Sorry, we could not embed that content."
+msgstr "Désolé, il est impossible d’embarquer ce contenu."
+
+#: languages/gutenberg-translations.php:345
+msgid "%s URL"
+msgstr "%s URL"
+
+#: languages/gutenberg-translations.php:214
+msgid "Write title…"
+msgstr "Rédiger le titre…"
+
+#: languages/gutenberg-translations.php:494
+msgid "Text Alignment"
+msgstr "Alignement du texte"
+
+#: languages/gutenberg-translations.php:196
+msgid "Fixed Background"
+msgstr "Arrière-plan fixe"
+
+#: languages/gutenberg-translations.php:538
+msgid "Edit image"
+msgstr "Modifier l’image"
+
+#: languages/gutenberg-translations.php:187
+msgid "Columns"
+msgstr "Colonnes"
+
+#: languages/gutenberg-translations.php:169
+msgid "Code"
+msgstr "Code"
+
+#: languages/gutenberg-translations.php:164
+msgid "Write code…"
+msgstr "Rédiger du code…"
+
+#: languages/gutenberg-translations.php:149
+msgid "Categories"
+msgstr "Catégories"
+
+#: languages/gutenberg-translations.php:141
+msgid "Categories Settings"
+msgstr "Réglages des catégories"
+
+#: languages/gutenberg-translations.php:125
+msgid "Add text…"
+msgstr "Ajout de texte…"
+
+#: languages/gutenberg-translations.php:128
+msgid "Button"
+msgstr "Bouton"
+
+#: languages/gutenberg-translations.php:121
+msgid "Apply"
+msgstr "Appliquer"
+
+#: languages/gutenberg-translations.php:116
+msgid "Text Color"
+msgstr "Couleur du texte"
+
+#: languages/gutenberg-translations.php:111
+msgid "Background Color"
+msgstr "Couleur d’arrière-plan"
+
+#: languages/gutenberg-translations.php:90
+msgid "Block has been deleted or is unavailable."
+msgstr "Le bloc a été supprimé ou n’est plus disponible."
+
+#: languages/gutenberg-translations.php:977 lib/client-assets.php:1324
+msgid "Reusable Blocks"
+msgstr "Bloc réutilisable"
+
+#: languages/gutenberg-translations.php:87
+msgid "Edit"
+msgstr "Modifier"
+
+#: languages/gutenberg-translations.php:31
+msgid "Edit audio"
+msgstr "Modifier le fichier son"
+
+#: languages/gutenberg-translations.php:67
+msgid "Write caption…"
+msgstr "Rédiger la légende…"
+
+#: languages/gutenberg-translations.php:1774
+msgid "Copy Post Text"
+msgstr "Copier le texte du contenu"
+
+#: languages/gutenberg-translations.php:311
+msgid "post"
+msgstr "contenu"
+
+#: languages/gutenberg-translations.php:734
+msgid "Drop Cap"
+msgstr "Lettrine"
+
+#: languages/gutenberg-translations.php:635
+msgid "recent posts"
+msgstr "contenus récents"
+
+#: languages/gutenberg-translations.php:620
+msgid "Latest Posts"
+msgstr "Derniers contenus"
+
+#: languages/gutenberg-translations.php:616
+msgid "Display post date"
+msgstr "Affiche la date du contenu"
+
+#: languages/gutenberg-translations.php:613
+msgid "Latest Posts Settings"
+msgstr "Réglages des derniers contenus"
+
+#: languages/gutenberg-translations.php:369
+msgid "Previews for this are unavailable in the editor, sorry!"
+msgstr "La prévisualisation de ce contenu n’est pas disponible dans l’éditeur, désolé !"
+
+#: languages/gutenberg-translations.php:784
+msgid "Pullquote"
+msgstr "Citation en exergue"
+
+#: languages/gutenberg-translations.php:1777
+msgid "Copy Error"
+msgstr "Copier l’erreur"
+
+#: languages/gutenberg-translations.php:851
+msgid "Write subheading…"
+msgstr "Rédiger une exergue…"
+
+#: languages/gutenberg-translations.php:1729
+msgid "Block Styles"
+msgstr "Styles de bloc"
+
+#. translators: %s: heading level e.g: "1", "2", "3"
+#: languages/gutenberg-translations.php:501
+msgid "Heading %d"
+msgstr "Titrage %d"
+
+#: languages/gutenberg-translations.php:2195
+msgid "You have unsaved changes. If you proceed, they will be lost."
+msgstr "Vous avez des changements non enregistrés. Si vous poursuivez, ils seront perdus."
+
+#: languages/gutenberg-translations.php:2041
+msgid "Are you ready to publish?"
+msgstr "Prêt⋅e à publier ?"
+
+#: languages/gutenberg-translations.php:1881
+msgid "Chat"
+msgstr "Discussion"
+
+#: languages/gutenberg-translations.php:1838
+msgid "no parent"
+msgstr "Aucun parent"
+
+#: languages/gutenberg-translations.php:1750
+msgid "(Empty heading)"
+msgstr "(Titre vide)"
+
+#: languages/gutenberg-translations.php:1712
+msgid "Convert to Regular Block"
+msgstr "Convertir en bloc Gutenberg normal"
+
+#: languages/gutenberg-translations.php:1666
+msgid "Blocks cannot be moved down as they are already at the bottom"
+msgstr "Les blocs ne peuvent pas être déplacés vers le bas car ils sont déjà tout en bas."
+
+#: languages/gutenberg-translations.php:1663
+msgid "Blocks cannot be moved up as they are already at the top"
+msgstr "Les blocs ne peuvent pas être déplacés vers le haut car ils sont déjà tout en haut."
+
+#. translators: %s: Type of block (i.e. Text, Image etc)
+#: languages/gutenberg-translations.php:1644
+msgid "Block %s is the only block, and cannot be moved"
+msgstr "Le bloc « %s » est le seul bloc et ne peut pas être déplacé"
+
+#: languages/gutenberg-translations.php:1180
+msgid "Separate with commas"
+msgstr "Séparer avec des virgules"
+
+#: languages/gutenberg-translations.php:1505
+#: packages/block-library/src/latest-comments/index.php:32
+msgid "(no title)"
+msgstr "(aucun titre)"
+
+#: languages/gutenberg-translations.php:1171
+msgid "Font Size"
+msgstr "Taille de police"
+
+#: languages/gutenberg-translations.php:707
+msgid "Read more"
+msgstr "Lire la suite"
+
+#: languages/gutenberg-translations.php:1723
+msgid "Change block type"
+msgstr "Modifier le type de bloc"
+
+#: lib/rest-api.php:339
+msgid "Post reverted to draft."
+msgstr "Publication reconvertie en brouillon."
+
+#: languages/gutenberg-translations.php:2123
+msgid "Post Visibility"
+msgstr "Visibilité de la publication"
+
+#: languages/gutenberg-translations.php:2132
+msgid "Would you like to privately publish this post now?"
+msgstr "Voulez-vous passer cette publication en privé ?"
+
+#: languages/gutenberg-translations.php:2074
+msgid "Are you sure you want to unpublish this post?"
+msgstr "Confirmez-vous la mise hors ligne de cette publication ?"
+
+#: languages/gutenberg-translations.php:1884
+msgid "Post Format"
+msgstr "Format de publication"
+
+#: languages/gutenberg-translations.php:1756
+msgid "(Your theme may already use a H1 for the post title)"
+msgstr "(votre thème devrait avoir un H1 pour le titre de cette publication)"
+
+#: languages/gutenberg-translations.php:710
+msgid "Hide the teaser before the \"More\" tag"
+msgstr "Masquer l’accroche avant l’étiquette « Lire la suite »"
+
+#: languages/gutenberg-translations.php:522
+msgid "embed"
+msgstr "Contenu embarqué"
+
+#: languages/gutenberg-translations.php:360
+msgid "Enter URL to embed here…"
+msgstr "Saisir l’URL à embarquer…"
+
+#: languages/gutenberg-translations.php:357
+msgid "Embedding…"
+msgstr "Récupération…"
+
+#: languages/gutenberg-translations.php:974 lib/client-assets.php:1319
+msgid "Embeds"
+msgstr "Contenus embarqués"
+
+#: languages/gutenberg-translations.php:1783
+msgid "Add %s"
+msgstr "Ajouter : %s"
+
+#: languages/gutenberg-translations.php:1980
+msgid "Update"
+msgstr "Mettre à jour"
+
+#: languages/gutenberg-translations.php:2162
+msgid "Content structure"
+msgstr "Structure du contenu"
+
+#: languages/gutenberg-translations.php:1697
+msgid "More options"
+msgstr "Plus d’options"
+
+#: languages/gutenberg-translations.php:144
+msgid "Show Hierarchy"
+msgstr "Afficher la hiérarchie"
+
+#: languages/gutenberg-translations.php:1790
+msgid "%d result found."
+msgid_plural "%d results found."
+msgstr[0] "%d résultat trouvé."
+msgstr[1] "%d résultats trouvés."
+
+#: lib/rest-api.php:341
+msgid "Post updated."
+msgstr "Publication mise à jour."
+
+#: lib/rest-api.php:340
+msgid "Post scheduled."
+msgstr "Publication planifiée."
+
+#: lib/rest-api.php:338
+msgid "Post published privately."
+msgstr "Publication privée mise en ligne."
+
+#: lib/rest-api.php:337
+msgid "Post published."
+msgstr "Publication mise en ligne."
+
+#: languages/gutenberg-translations.php:72
+msgid "Audio"
+msgstr "Son"
+
+#: languages/gutenberg-translations.php:1820
+msgid "Upload"
+msgstr "Téléverser"
+
+#: languages/gutenberg-translations.php:2219
+msgid "Additional CSS Class"
+msgstr "Classe CSS additionnelle"
+
+#: languages/gutenberg-translations.php:2216
+msgid "Anchors lets you link directly to a section on a page."
+msgstr "Les ancres font un lien direct vers une section contenue dans une page."
+
+#: languages/gutenberg-translations.php:2213
+msgid "HTML Anchor"
+msgstr "Ancre HTML"
+
+#: languages/gutenberg-translations.php:1741
+msgid "This color combination may be hard for people to read. Try using a darker background color and/or a brighter text color."
+msgstr "Cette combinaison de couleurs est difficilement lisible. Essayez d’utiliser une couleur d’arrière-plan et/ou de texte plus sombre."
+
+#: languages/gutenberg-translations.php:990
+msgid "Clear"
+msgstr "Effacer"
+
+#: languages/gutenberg-translations.php:993
+msgid "Custom color picker"
+msgstr "Sélecteur de couleur personnalisée"
+
+#. translators: %s: The name of the color e.g: "vivid red".
+#: languages/gutenberg-translations.php:997
+msgid "Color: %s"
+msgstr "Couleur : %s"
+
+#: languages/gutenberg-translations.php:1581
+msgid "Full width"
+msgstr "Pleine largeur"
+
+#: languages/gutenberg-translations.php:971 lib/client-assets.php:1314
+msgid "Widgets"
+msgstr "Widgets"
+
+#: languages/gutenberg-translations.php:962 lib/client-assets.php:1299
+msgid "Common Blocks"
+msgstr "Blocs communs"
+
+#: languages/gutenberg-translations.php:1575
+msgid "Align right"
+msgstr "Aligner à droite"
+
+#: languages/gutenberg-translations.php:1572
+msgid "Align center"
+msgstr "Centrer"
+
+#: languages/gutenberg-translations.php:1569
+msgid "Align left"
+msgstr "Aligner à gauche"
+
+#: languages/gutenberg-translations.php:1744
+msgid "This color combination may be hard for people to read. Try using a brighter background color and/or a darker text color."
+msgstr "Cette combinaison de couleurs peut être difficile a lire pour certaines personnes. Essayer une couleur d’arrière-plan plus claire et/ou une couleur de texte plus foncée."
+
+#: languages/gutenberg-translations.php:965 lib/client-assets.php:1304
+msgid "Formatting"
+msgstr "Mise en forme"
+
+#: languages/gutenberg-translations.php:1578
+msgid "Wide width"
+msgstr "Grande largeur"
+
+#. Description of the plugin/theme
+msgid "Printing since 1440. This is the development plugin for the new block editor in core."
+msgstr "L’impression depuis 1440. L’extension en cours de développement pour le nouvel éditeur de blocs du cœur WP."
+
+#: languages/gutenberg-translations.php:2117 lib/client-assets.php:1631
+msgid "Add title"
+msgstr "Ajout de titre"
+
+#: gutenberg.php:140
+msgid "Gutenberg development mode requires files to be built. Run <code>npm install</code> to install dependencies, <code>npm run build</code> to build the files or <code>npm run dev</code> to build the files and watch for changes. Read the <a href=\"https://github.com/WordPress/gutenberg/blob/master/CONTRIBUTING.md\">contributing</a> file for more information."
+msgstr "Le mode développement de Gutenberg nécessite que des fichiers soient générés. Lancer <code>npm install</code> pour installer les dépendances, et <code>npm run dev</code> pour générer et vérifier les fichiers. Lire le <a href=\"https://github.com/WordPress/gutenberg/blob/master/CONTRIBUTING.md\">fichier de contribution (en anglais)</a> pour plus d’informations."
+
+#: packages/block-library/src/categories/index.php:30
+msgid "Select Category"
+msgstr "Sélection de catégorie"
+
+#: languages/gutenberg-translations.php:138
+#: packages/block-library/src/latest-posts/index.php:33
+msgid "(Untitled)"
+msgstr "(Sans titre)"
+
+#. Plugin Name of the plugin/theme
+msgid "Gutenberg"
+msgstr "Gutenberg"
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/WordPress/gutenberg"
+msgstr "https://github.com/WordPress/gutenberg"
+
+#: gutenberg.php:63 gutenberg.php:64
+msgid "Demo"
+msgstr "Démo"
+
+#. translators: %s: duration
+#: lib/client-assets.php:393
+msgid "%s ago"
+msgstr "Il y a %s"
+
+#. translators: %s: duration
+#: lib/client-assets.php:391
+msgid "%s from now"
+msgstr "Dans %s"
+
+#: lib/client-assets.php:398
+msgid "F j, Y"
+msgstr "j F Y"
+
+#: lib/client-assets.php:399
+msgid "F j, Y g:i a"
+msgstr "j F Y, G \\h i \\m\\i\\n"
+
+#: lib/client-assets.php:397
+msgid "g:i a"
+msgstr "G \\h i \\m\\i\\n"
+
+#: lib/class-wp-block-type-registry.php:60
+msgid "Block type names must be strings."
+msgstr "Les noms de type de bloc doivent être des chaînes."
+
+#: lib/class-wp-block-type-registry.php:73
+msgid "Block type names must contain a namespace prefix. Example: my-plugin/my-custom-block-type"
+msgstr "Les noms de types de bloc doivent contenir un préfixe d’espace de nom. Exemple : mon-extension/mon-bloc-personnalise"
+
+#. translators: 1: block name
+#: lib/class-wp-block-type-registry.php:111
+msgid "Block type \"%s\" is not registered."
+msgstr "Le type de bloc « %s » n’est pas enregistré."
+
+#. translators: 1: block name
+#: lib/class-wp-block-type-registry.php:80
+msgid "Block type \"%s\" is already registered."
+msgstr "Le type de bloc « %s » est déjà enregistré."
+
+#: languages/gutenberg-translations.php:1847 lib/register.php:168
+msgid "Author"
+msgstr "Auteur·e"
+
+#: lib/register.php:159
+msgid "Comments"
+msgstr "Commentaires"
+
+#: languages/gutenberg-translations.php:1434 lib/register.php:146
+msgid "Discussion"
+msgstr "Discussion"
+
+#: languages/gutenberg-translations.php:1444 lib/register.php:130
+msgid "Custom Fields"
+msgstr "Champs personnalisés"
+
+#: lib/register.php:126
+msgid "Send Trackbacks"
+msgstr "Envoyer des rétroliens"
+
+#: languages/gutenberg-translations.php:1430 lib/register.php:122
+msgid "Excerpt"
+msgstr "Extrait"
+
+#: lib/register.php:92
+msgctxt "post format"
+msgid "Format"
+msgstr "Format"
+
+#: languages/gutenberg-translations.php:1460 lib/register.php:88
+msgid "Publish"
+msgstr "Publier"
+
+#: languages/gutenberg-translations.php:54 lib/register.php:85
+msgid "Metadata"
+msgstr "Métadonnée"
+
+#: languages/gutenberg-translations.php:82 lib/register.php:81
+msgid "Save"
+msgstr "Enregistrer"
+
+#: lib/register.php:74
+msgid "Revisions"
+msgstr "Révisions"
+
+#. translators: %s is the name of the plugin that generated this meta box.
+#: lib/meta-box-partial-page.php:273
+msgid "Gutenberg incompatible meta box, from the \"%s\" plugin."
+msgstr "Boîte méta incompatible avec Gutenberg provenant de l’extension « %s »."
+
+#: lib/class-wp-block-type-registry.php:66
+msgid "Block type names must not contain uppercase characters."
+msgstr "Les noms de types de blocs ne peuvent pas contenir de caractère majuscule."
+
+#: gutenberg.php:462
+msgid "Toggle editor selection menu"
+msgstr "Déplier/replier l’éditeur de sélection de menu"
+
+#: gutenberg.php:314 gutenberg.php:464
+msgid "Classic Editor"
+msgstr "Éditeur classique"
+
+#. translators: %s: post title
+#: gutenberg.php:310
+msgid "Edit &#8220;%s&#8221; in the classic editor"
+msgstr "Modifier « %s » avec l’éditeur classique"
+
+#: gutenberg.php:83
+msgid "Documentation"
+msgstr "Documentation"
+
+#: gutenberg.php:77
+msgid "Feedback"
+msgstr "Retour d’utilisation"
+
+#: lib/register.php:164
+msgid "Slug"
+msgstr "Identifiant"
+
+#. Author of the plugin/theme
+msgid "Gutenberg Team"
+msgstr "L’équipe de Gutenberg"
+
+#: lib/class-wp-rest-block-renderer-controller.php:104
+msgid "Sorry, you are not allowed to read Gutenberg blocks as this user."
+msgstr "Désolé, vous n’avez pas la permission de lire les blocs réutilisables avec ce profil utilisateur."
+
+#: gutenberg.php:127
+msgid "Gutenberg requires WordPress 4.9.8 or later to function properly. Please upgrade WordPress before activating Gutenberg."
+msgstr "Gutenberg nécessite WordPress 4.9.8 ou supérieur pour fonctionner correctement. Veuillez mettre à niveau WordPress avant d’activer Gutenberg."

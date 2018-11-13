@@ -1,0 +1,178 @@
+/**
+ * Admin Menus Accessibility Javascript
+ */
+
+.ama_adminmenu {
+    padding-top:5px;
+    padding-bottom:5px;
+    position: static!important;
+    display: block!important;
+    width: 100%!important
+}
+body.folded .ama_adminmenu:hover {
+    width:200px!important;
+    margin-bottom: 10px;
+}
+body.folded .ama_adminmenu .tabs {
+    display: none;
+}
+body.folded .ama_adminmenu #ama_search {
+    display: none;
+}
+.ama_hide {
+    display:none !important;
+}
+body:not(.folded) .ama_adminmenu li.searchbtn {
+    display: none;
+}
+
+body:not(.folded) .ama_showsubmenu {
+    display:block !important;
+    position: static!important;
+}
+.ama_active.ul#adminmenu {
+    overflow: scroll;
+}
+
+.ama_adminmenu li.searchbtn i {
+    font-size: 16px;
+}
+.ama_adminmenu li.searchbtn a {
+    margin-bottom: 6px;
+    display: block;
+    text-align:center;
+}
+body.folded .ama_adminmenu:hover .tabs,
+body.folded .ama_adminmenu:hover #ama_search {
+    display: block!important;
+}
+
+/**
+ * Search Fields Style
+ */
+.ama_adminmenu #ama_search {
+    border: none;
+    background: rgba(255, 255, 255, 0.84);
+    width: 95%;
+    display: block;
+    border-radius: 5px;
+    font-size: 12px;
+    margin: auto auto 0px;
+}
+
+/**
+ * Tab Style
+ */
+.ama_adminmenu ul.tabs {
+    display: block;
+    list-style: none;
+    margin-left: 4px;
+    margin-bottom: 9px;
+    height: 24px;
+}
+body:not(.folded) .ama_adminmenu ul.tabs .searchbtn {
+    display:none;
+}
+.ama_adminmenu ul.tabs li {
+    color:white;
+    float: left;
+    padding: 3px 10px 3px 10px!important;
+    display: block!important;
+    border-radius: 10px;
+}
+
+/**
+ * Heart Btn Style
+ */
+
+ul#adminmenu .fav .amaheart {
+    color: #de8163;
+    font-size: 18px;
+    padding: 0px 2px 0 0;
+    height: 16px;
+}
+ul#adminmenu > li > .amaheart {
+    font-size: 14px;
+    color: white;
+    float: right;
+    display: block!important;
+    position: absolute;
+    right: 11px;
+    top: 10px;
+    z-index: 100;
+    visibility: hidden;
+}
+ul#adminmenu > li:hover > .amaheart,
+#adminmenu .wp-submenu li:hover .amaheart  {
+    visibility: visible!important;
+}
+#adminmenu .wp-submenu li:not(.fav) .amaheart {
+    float: right;
+    margin-top: -22px;
+    margin-right: 10px;
+    visibility: hidden;
+    font-size: 15px;
+}
+body.folded ul#adminmenu li:not(.fav) .amaheart {
+    right: 0px;
+    visibility: visible;
+    top: 0px;
+    z-index: 99999;
+}
+#adminmenu .wp-submenu li.wp-submenu-head .amaheart {
+    margin-top: 4px;
+    margin-right: 5px;
+}
+#adminmenu li:not(.fav) .amaheart:hover,#adminmenu li:not(.fav) .amaheart.selected {
+    color: #de8163;
+}
+
+/**
+ * Search Highlight.
+ */
+span.ama_highlight {
+    background: #ffffffab;
+    color: black;
+    padding: 0px 2px 1px 2px;
+    border-radius: 5px;
+}
+
+@media only screen and (max-width: 960px) {
+
+    /**
+    ========= all css related to folded body class ========
+     */
+    
+    body.auto-fold .ama_adminmenu:hover {
+        width:200px!important;
+        margin-bottom: 10px;
+    }
+    body.auto-fold .ama_adminmenu .tabs {
+        display: none;
+    }
+    body.auto-fold .ama_adminmenu #ama_search {
+        display: none;
+    }
+
+
+    body.auto-fold .ama_adminmenu:hover .tabs,
+    body.auto-fold .ama_adminmenu:hover #ama_search {
+        display: block!important;
+    }
+
+    body.auto-fold ul#adminmenu li:not(.fav) .amaheart {
+        right: 0px;
+        visibility: visible;
+        top: 0px;
+        z-index: 99999;
+    }
+
+    body.auto-fold .ama_adminmenu li.searchbtn {
+        display: block;
+    }
+    
+    /**
+    ========= End Folded ========
+     */
+    
+}

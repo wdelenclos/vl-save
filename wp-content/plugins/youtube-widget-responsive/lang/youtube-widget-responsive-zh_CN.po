@@ -1,0 +1,164 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Youtube widget responsive - v 1.2\n"
+"POT-Creation-Date: 2015-10-15 17:29+0200\n"
+"PO-Revision-Date: 2015-10-15 17:34+0200\n"
+"Language-Team: StefanoAI <stefanoai@stefanoai.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"Last-Translator: StefanoAI <stefanoai@stefanoai.com>\n"
+"Language: zh_CN\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: youtube-widget-responsive.php:23
+msgid ""
+"YouTube Responsive enable you to place a widget with youtube video.\n"
+"Among the various options there is also the possibility to start the video "
+"automatically"
+msgstr ""
+"响应的YouTube，您可以放置一个小部件上的YouTube视频。在各种不同的选择，也有可"
+"能自动地启动视频"
+
+#: youtube-widget-responsive.php:357
+msgid "Title"
+msgstr "标题"
+
+#: youtube-widget-responsive.php:361
+msgid "Video"
+msgstr "视频"
+
+#: youtube-widget-responsive.php:365
+msgid "Start from"
+msgstr "从开始开始"
+
+#: youtube-widget-responsive.php:366 youtube-widget-responsive.php:371
+msgid "min"
+msgstr "分钟"
+
+#: youtube-widget-responsive.php:367 youtube-widget-responsive.php:372
+msgid "sec"
+msgstr "秒"
+
+#: youtube-widget-responsive.php:370
+msgid "End to"
+msgstr "视频结束"
+
+#: youtube-widget-responsive.php:376
+msgid "Enable substitles automatically"
+msgstr "启用隐藏式字幕"
+
+#: youtube-widget-responsive.php:377
+msgid "language [en]"
+msgstr "语言 [en]"
+
+#: youtube-widget-responsive.php:381
+msgid "Auto hide Video progress bar"
+msgstr "自动隐藏视频进度条"
+
+#: youtube-widget-responsive.php:383 youtube-widget-responsive.php:413
+msgid "Default"
+msgstr "默认"
+
+#: youtube-widget-responsive.php:384
+msgid "Hide video progress bar after video starts playing"
+msgstr "隐藏视频进度条，视频开始播放后，"
+
+#: youtube-widget-responsive.php:385
+msgid "Show always"
+msgstr "总是显示"
+
+#: youtube-widget-responsive.php:389
+msgid "Theme of control bar"
+msgstr "控制杆的主题"
+
+#: youtube-widget-responsive.php:391
+msgid "Dark"
+msgstr "暗"
+
+#: youtube-widget-responsive.php:392
+msgid "Light"
+msgstr "明确"
+
+#: youtube-widget-responsive.php:396
+msgid "Select color of progress bar"
+msgstr "进度条的颜色选择"
+
+#: youtube-widget-responsive.php:398
+msgid "Red"
+msgstr "红"
+
+#: youtube-widget-responsive.php:399
+msgid "White"
+msgstr "白"
+
+#: youtube-widget-responsive.php:403
+msgid "Show controls bar"
+msgstr "显示控制栏"
+
+#: youtube-widget-responsive.php:405
+msgid "Always"
+msgstr "始终"
+
+#: youtube-widget-responsive.php:406
+msgid "On video playback"
+msgstr "在视频播放"
+
+#: youtube-widget-responsive.php:407
+msgid "Never"
+msgstr "从来没有"
+
+#: youtube-widget-responsive.php:411
+msgid "Resolution"
+msgstr "分辨率"
+
+#: youtube-widget-responsive.php:440
+msgid "Allow fullscreen"
+msgstr "启用全屏"
+
+#: youtube-widget-responsive.php:444
+msgid "Disable the player Keyboard controls"
+msgstr "关闭播放器键盘控制"
+
+#: youtube-widget-responsive.php:448
+msgid "Hide video annotations"
+msgstr "隐藏视频注释"
+
+#: youtube-widget-responsive.php:452
+msgid "Start video automatically"
+msgstr "自动启动视频"
+
+#: youtube-widget-responsive.php:456
+msgid "Hide YouTube logo on controls bar"
+msgstr "隐藏YouTube标志上的控制杆"
+
+#: youtube-widget-responsive.php:460
+msgid "Hide the video title and uploader before the video starts playing"
+msgstr "隐藏视频标题和上传视频开始播放前"
+
+#: youtube-widget-responsive.php:468
+msgid ""
+"Enable privacy-enhanced mode [<a target=\"_blank\" href=\"http://www.google."
+"com/support/youtube/bin/answer.py?"
+"answer=171780&expand=PrivacyEnhancedMode#privacy\">?</a>]"
+msgstr ""
+"启用隐私权加强保护模式 [<a target='_blank' href='http://www.google.com/"
+"support/youtube/bin/answer.py?"
+"answer=171780&expand=PrivacyEnhancedMode#privacy'>?</a>]"
+
+#: youtube-widget-responsive.php:472
+msgid "Show suggested videos when the video finishes"
+msgstr "显示推荐视频在视频的结尾"
+
+#: youtube-widget-responsive.php:476
+msgid "wmode transparent"
+msgstr ""
+
+#: youtube-widget-responsive.php:480
+msgid "Track video (Google Analytics/Universal Analytics)"
+msgstr ""

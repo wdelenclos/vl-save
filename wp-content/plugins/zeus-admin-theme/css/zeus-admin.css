@@ -1,0 +1,96 @@
+/*
+* Change background color
+*/
+
+html {
+    background: #eceff0 none repeat scroll 0 0;
+}
+
+/*
+* Main Left Admin Menu Edits:
+*/
+
+#adminmenu, #adminmenu .wp-submenu, #adminmenuback, #adminmenuwrap {
+    background-color: #272c30;
+    width: 200px;
+}
+
+#wpcontent, #wpfooter {
+    margin-left: 200px;
+}
+
+#adminmenu .wp-submenu {
+    left: 200px;
+}
+
+#adminmenu a {
+    color: #e5e6e7;
+}
+
+#adminmenu .wp-submenu-head, #adminmenu a.menu-top {
+    font-size: 13px;
+}
+
+#adminmenu div.wp-menu-image::before {
+    color: rgba(240, 245, 250, 0.8);
+}
+
+div.wp-menu-image::before {
+    padding: 7px;
+}
+
+#adminmenu div.wp-menu-image {
+    width: 44px;
+}
+
+/*
+* Posts striped color
+*/
+
+.alternate, .striped > tbody > *:nth-child(2n+1), ul.striped > *:nth-child(2n+1) {
+    background-color: #f6f7f8;
+}
+
+/*
+* Panel/cards edits
+*/
+
+#menu-management .menu-edit, #menu-settings-column .accordion-container, .comment-ays, .feature-filter, .imgedit-group, .manage-menus, .menu-item-handle, .popular-tags, .stuffbox, .widget-inside, .widget-top, .widgets-holder-wrap, .wp-editor-container, p.popular-tags, table.widefat, .welcome-panel, .wp-filter {
+    border-radius: 4px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.postbox {
+    border-radius: 4px;
+}
+
+/*
+* Post Edit Screen
+*/
+
+#wp-content-editor-tools {
+    background-color: #eceff0;
+}
+
+#titlediv #title {
+	height: 2.5em;
+	border-radius: 4px;
+}
+
+/* *********************** */
+/* Sidebar */
+/* *********************** */
+
+#poststuff #post-body.columns-2 {
+	margin-right: 359px;
+}
+#post-body.columns-2 #postbox-container-1 {
+	margin-right: -359px;
+	width: 299px;
+	/*When set to 300px, it stops changing to fixed on scroll. No idea why.*/
+}
+
+.postbox .hndle, .stuffbox .hndle {
+    border-bottom: none;
+}

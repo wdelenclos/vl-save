@@ -1,0 +1,211 @@
+.ws_container {
+    background: white none repeat scroll 0 0;
+    border: 1px solid #e3e3e3;
+    box-shadow: 0 1px 0 #fff inset;
+    margin-bottom: 10px;
+    padding: 0;
+    width: 97%;
+}
+
+.ws_hidden {
+    opacity: 0.4;
+}
+
+/**
+ * Item head elements
+ */
+
+.ws_item_head {
+    background-color: #f5f6f7;
+    padding: 8px;
+}
+
+.ws_item_title {
+	color: #222;
+	text-shadow: #FFFFFF 0 1px 0;
+}
+
+/**
+ * The down-arrow that expands menu settings
+ */
+
+.ws_edit_link {
+	background: transparent url(../images/arrows.png) no-repeat center 3px;
+	overflow: hidden;
+	text-indent:-999em;
+}
+
+a.ws_edit_link:hover {
+	background-image: url(../images/arrows-dark.png);
+}
+
+.ws_edit_link:active {
+	background-image: url(../images/arrows-dark.png);
+}
+
+.ws_edit_link_expanded {
+	border-bottom: none;
+	border-color: #ffffd0;
+
+	padding-bottom: 1px;
+	border-bottom-right-radius: 0;
+	border-bottom-left-radius: 0;
+
+	-moz-border-radius-bottomright: 0;
+	-moz-border-radius-bottomleft: 0;
+
+	-webkit-border-bottom-right-radius: 0;
+	-webkit-border-bottom-left-radius: 0;
+}
+
+
+/**
+ * Separators
+ */
+
+.ws_menu_separator {
+	border-color: #d9d9d9;
+}
+
+/* Offset the separator image in actor view to prevent it from overlapping the checkbox.  */
+.ws_is_actor_view  .ws_menu_separator .ws_item_head {
+	background-position: 25px 8px;
+}
+
+/**
+ * Active item
+ */
+
+.ws_container.ws_active {
+	border: 1px solid #0073aa;
+}
+.ws_active .ws_item_head {
+	background: #0073aa;
+}
+
+.ws_active .ws_item_title {
+	text-shadow: 0 -1px 0 #333;
+	color: #fff;
+	border-top-color: #808080;
+	border-bottom-color: #6d6d6d;
+}
+
+/**
+ * Hidden items.
+ */
+.ws_is_actor_view .ws_container.ws_is_hidden_for_actor .ws_item_head {
+	background: #F9F9F9 linear-gradient(to top, #F3F3F3, #FFFFFF);
+}
+
+/* selected hidden items */
+.ws_is_actor_view .ws_is_hidden_for_actor.ws_active .ws_item_head {
+	background: #dedede linear-gradient(to top, #8f8f8f, #a2a2a2);
+}
+.ws_is_actor_view .ws_is_hidden_for_actor.ws_active .ws_item_title {
+	color: #fff;
+	text-shadow: none;
+}
+
+/* hidden separators */
+.ws_is_actor_view .ws_menu_separator.ws_is_hidden_for_actor .ws_item_head {
+	/* Override gradient with the separator image. */
+	background: url("../images/menu-arrows.png") no-repeat 25px 8px;
+}
+/* selected hidden separators */
+.ws_menu_separator.ws_is_hidden_for_actor.ws_active .ws_item_head {
+	background: #aaa url("../images/menu-arrows.png") no-repeat 25px 8px;
+}
+
+
+/**
+ * Dropping menus on other menus.
+ */
+
+.ws_menu_drop_hover, .ws_menu_drop_hover .ws_item_head  {
+	background: #43b529;
+}
+
+.ws_menu_drop_hover .ws_item_title {
+	text-shadow: none;
+}
+
+/**
+ * Misc
+ */
+
+.ws_editbox {
+	/*background-color: #ffffd0;*/
+	background-color: #FBFBFB;
+	padding: 4px 6px;
+}
+
+.ws_input_default input, .ws_input_default select {
+	color: gray;
+}
+
+/*
+ * Show/Hide advanced fields
+ */
+
+.ws_toggle_advanced_fields {
+	color: #6087CB;
+	font-size: 0.85em;
+}
+
+.ws_toggle_advanced_fields:visited, .ws_toggle_advanced_fields:active {
+	color: #6087CB;
+}
+
+.ws_toggle_advanced_fields:hover {
+	color: #d54e21;
+	text-decoration: underline;
+}
+
+/************************************
+           Export and import
+*************************************/
+
+.ui-dialog {
+	background: white;
+	border: 1px solid #c0c0c0;
+
+	border-radius: 0;
+}
+
+.ui-dialog-titlebar {
+	background-color: #fcfcfc;;
+	border-bottom-color: #dfdfdf;
+}
+
+.ui-dialog-title {
+	color: #444444;
+}
+
+.ui-dialog-titlebar-close {
+	background-color: transparent;
+	border-style: none;
+
+	color: #666;
+	cursor: pointer;
+	padding: 0;
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 36px;
+	height: 30px;
+	text-align: center;
+}
+
+.ui-dialog-titlebar-close::before {
+	font: normal 20px/30px 'dashicons';
+	content: '\f158';
+
+	vertical-align: top;
+	width: 36px;
+	height: 30px;
+}
+
+.ui-dialog-titlebar-close:hover {
+	background: transparent none;
+	color: #2ea2cc;
+}

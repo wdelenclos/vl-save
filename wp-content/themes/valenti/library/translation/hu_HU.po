@@ -1,0 +1,393 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Valenti\n"
+"POT-Creation-Date: 2015-07-30 19:47-0000\n"
+"PO-Revision-Date: 2015-07-30 19:47-0000\n"
+"Last-Translator: \n"
+"Language-Team: Cubell\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-KeywordsList: _e;__;_;esc_html_e;_n:1,2;gettext;gettext_noop\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../library/admin\n"
+"X-Poedit-SearchPathExcluded-1: ../bbpress\n"
+"X-Poedit-SearchPathExcluded-2: ../buddypress\n"
+"X-Poedit-SearchPathExcluded-3: ../woocommerce\n"
+"X-Poedit-SearchPathExcluded-4: ../plugins/login-with-ajax\n"
+"X-Poedit-SearchPathExcluded-5: ../option-tree\n"
+
+#: ../404.php:6
+msgid "Page not found"
+msgstr "Az oldal nem található"
+
+#: ../404.php:17
+msgid "Oops! The page you were looking for was not found."
+msgstr "Hoppá! A keresett oldal nem található."
+
+#: ../archive.php:11
+msgid "Daily Archives"
+msgstr "Napi Archívum"
+
+#: ../archive.php:16
+msgid "Monthly Archives"
+msgstr "Havi Archívum"
+
+#: ../archive.php:21
+msgid "Yearly Archives"
+msgstr "Éves Archívum"
+
+#: ../author.php:13
+msgid "Author"
+msgstr "Szerző"
+
+#: ../bbpress.php:15 ../buddypress.php:15
+msgid "Member"
+msgstr "Tag"
+
+#: ../buddypress.php:19
+msgid "Group"
+msgstr "Csoport"
+
+#: ../buddypress.php:24 ../buddypress.php:41 ../buddypress.php:46
+#: ../library/core.php:937 ../library/core.php:939
+msgid "Groups"
+msgstr "Csoportok"
+
+#: ../buddypress.php:28
+msgid "Settings"
+msgstr "Beállítások"
+
+#: ../buddypress.php:32
+msgid "Forums"
+msgstr "Fórumok"
+
+#: ../buddypress.php:36 ../buddypress.php:53
+msgid "Activity"
+msgstr "Aktivitás"
+
+#: ../buddypress.php:41 ../buddypress.php:47
+msgid "Create a Group"
+msgstr "Csoport létrehozása"
+
+#: ../comments.php:11
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Ez a bejegyzés jelszóval védett. Kérlek írd be jelszavad a kommentek "
+"megtekintéséhez."
+
+#: ../comments.php:20
+msgid "No Responses"
+msgstr "Nincs válasz"
+
+#: ../comments.php:20
+msgid "One Response"
+msgstr "Egy válasz"
+
+#: ../comments.php:20
+msgid "% Response"
+msgid_plural "% Responses"
+msgstr[0] "% válasz"
+msgstr[1] "% válasz"
+
+#: ../comments.php:47
+msgid "Leave a Reply"
+msgstr "Válaszolj"
+
+#: ../comments.php:48
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Válaszolj %s"
+
+#: ../comments.php:49
+msgid "Cancel Reply"
+msgstr "Válasz elvetése"
+
+#: ../comments.php:50
+msgid "Submit"
+msgstr "Hozzászólás"
+
+#: ../comments.php:52
+msgid "Your email address will not be published."
+msgstr "Az e-mail címed nem publikáljuk."
+
+#: ../comments.php:53
+msgid "Comment"
+msgstr "Kommentelés"
+
+#: ../comments.php:59
+#, php-format
+msgid ""
+"You must be <a href=\"%s\" data-reveal-id=\"cb-login-modal\">logged in</a> "
+"to post a comment."
+msgstr ""
+"Kommenteléshez <a href=\"%s\" data-reveal-id=\"cb-login-modal\">logged in</"
+"a> be kell jelentkezned."
+
+#: ../comments.php:65
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+"<a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account"
+"\">Log out?</a>-ként bejelentkezve"
+
+#: ../comments.php:75
+msgid "Name"
+msgstr "Név"
+
+#: ../comments.php:81 ../library/core.php:1994 ../library/core.php:2037
+#: ../library/core.php:2070
+msgid "Email"
+msgstr "Email cím"
+
+#: ../comments.php:88 ../library/core.php:1995 ../library/core.php:2038
+#: ../library/core.php:2071
+msgid "Website"
+msgstr "Honlap"
+
+#: ../header.php:211 ../library/core.php:181 ../library/core.php:236
+msgid "Search"
+msgstr "Keresés"
+
+#: ../library/core.php:171
+msgid "Login / Join"
+msgstr "Belépés / Registráció"
+
+#: ../library/core.php:259
+msgid "Breaking"
+msgstr "Breaking"
+
+#: ../library/core.php:356
+msgid "You need to install Jetpack plugin and enable \"Stats\"."
+msgstr "Sírnod kell felszerel Jetpack dugó és képessé tesz \"Stats\"."
+
+#: ../library/core.php:516
+msgid "Featured"
+msgstr "Kiemelt"
+
+#: ../library/core.php:522
+msgid "Random"
+msgstr "Random"
+
+#: ../library/core.php:580 ../library/core.php:625
+msgid "Recent"
+msgstr "Legújabb"
+
+#: ../library/core.php:898
+msgid "Home"
+msgstr "Főoldal"
+
+#: ../library/core.php:914 ../library/core.php:918 ../library/core.php:919
+#: ../library/core.php:986 ../library/core.php:990 ../library/core.php:992
+#: ../library/core.php:998 ../library/core.php:1004 ../library/core.php:1010
+#: ../library/core.php:1250
+#, php-format
+msgid "View all posts in %s"
+msgstr "Összes bejegyzés megtekintése %s"
+
+#: ../library/core.php:955 ../library/core.php:959
+msgid "Members"
+msgstr "Tagok"
+
+#: ../library/core.php:967
+msgid "Messages"
+msgstr "Üzenetek"
+
+#: ../library/core.php:972
+msgid "Register"
+msgstr "Regisztráció"
+
+#: ../library/core.php:1141
+msgid "Share On"
+msgstr "Megosztás"
+
+#: ../library/core.php:1472
+msgid "Overall Score"
+msgstr "Összpontszám"
+
+#: ../library/core.php:1544 ../library/core.php:1820
+msgid "You have already voted"
+msgstr "Már szavaztál"
+
+#: ../library/core.php:1550 ../library/core.php:1684
+msgid "Vote"
+msgid_plural "Votes"
+msgstr[0] "Szavazás"
+msgstr[1] "Szavazások"
+
+#: ../library/core.php:1557 ../library/core.php:1684 ../library/core.php:1686
+msgid "Reader Rating"
+msgstr "Olvasói értékelés"
+
+#: ../library/core.php:1686
+msgid "Votes"
+msgstr "Szavazások"
+
+#: ../library/core.php:1764
+msgid "Your Rating"
+msgstr "Te értékelésed"
+
+#: ../library/core.php:2027
+msgid "About The Author"
+msgstr "A szerzőről"
+
+#: ../library/core.php:2083
+msgid "Topics Started"
+msgstr "Megkezdett topicok"
+
+#: ../library/core.php:2087
+msgid "Replies Created"
+msgstr "Eddigi válaszok"
+
+#: ../library/core.php:2093
+msgid "Favorites"
+msgstr "Kedvencek"
+
+#: ../library/core.php:2101
+msgid "Subscriptions"
+msgstr "Feliratkozások"
+
+#: ../library/core.php:2106
+msgid "Edit"
+msgstr "Szerkesztés"
+
+#: ../library/core.php:2224
+msgid "Related Posts"
+msgstr "Kapcsolódó bejegyzések"
+
+#: ../library/core.php:2291
+msgid "No More Stories"
+msgstr "Nincs több történet"
+
+#: ../library/core.php:2746
+msgid "(Edit)"
+msgstr "(Szerkesztés)"
+
+#: ../library/core.php:2750
+msgid "Your comment is awaiting moderation."
+msgstr "A kommented moderátori elfogadásra vár."
+
+#: ../library/core.php:3429
+#, php-format
+msgid "%s (Invalid)"
+msgstr "%s (Érvénytelen)"
+
+#: ../library/core.php:3433
+#, php-format
+msgid "%s (Pending)"
+msgstr "%s (Várakozik)"
+
+#: ../library/core.php:3446
+msgid "sub item"
+msgstr "alelem"
+
+#: ../library/core.php:3478
+msgid "Edit Menu Item"
+msgstr "Menüelem szerkesztése"
+
+#: ../library/core.php:3487
+msgid "URL"
+msgstr "URL"
+
+#: ../library/core.php:3494
+msgid "Navigation Label"
+msgstr "Navigálási címke"
+
+#: ../library/core.php:3500
+msgid "Title Attribute"
+msgstr "Cím tulajdonság"
+
+#: ../library/core.php:3507
+msgid "Open link in a new window/tab"
+msgstr "Link megnyitása új ablakban / tab-ben"
+
+#: ../library/core.php:3512
+msgid "CSS Classes (optional)"
+msgstr "CSS osztályok (opcionális)"
+
+#: ../library/core.php:3518
+msgid "Link Relationship (XFN)"
+msgstr "Link kapcsolat (XFN)"
+
+#: ../library/core.php:3535
+msgid "Description"
+msgstr "Leírás"
+
+#: ../library/core.php:3538
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr "A leírás megjelenik a menüben, ha a beállított téma támogatja."
+
+#: ../library/core.php:3543
+msgid "Move"
+msgstr "Mozgatás"
+
+#: ../library/core.php:3544
+msgid "Up one"
+msgstr "Egyet fel"
+
+#: ../library/core.php:3545
+msgid "Down one"
+msgstr "Egyet le"
+
+#: ../library/core.php:3548
+msgid "To the top"
+msgstr "Tetejére"
+
+#: ../library/core.php:3555
+#, php-format
+msgid "Original: %s"
+msgstr "Eredeti: %s"
+
+#: ../library/core.php:3568
+msgid "Remove"
+msgstr "Eltávolítás"
+
+#: ../library/core.php:3569
+msgid "Cancel"
+msgstr "Mégse"
+
+#: ../library/core.php:3695
+msgid "No more articles"
+msgstr "Nincs több cikk"
+
+#: ../library/core.php:3696
+msgid "Load More"
+msgstr "Még több betöltése"
+
+#: ../library/core.php:4261
+msgid "Valenti Post Format: Audio"
+msgstr "Valenti felad formátum: Audio"
+
+#: ../page-full-width.php:59 ../page.php:60
+msgid "Tags:"
+msgstr "Tagek:"
+
+#: ../search.php:10
+msgid "Search Results for:"
+msgstr "Keresés a következőre:"
+
+#: ../search.php:23
+msgid "Sorry, nothing found."
+msgstr "Sajnos nincs találat."
+
+#: ../search.php:26
+msgid "Please try searching again, but with different keywords."
+msgstr "Kérlek próbálj meg más kulcsszavakkal keresni."
+
+#: ../tag.php:31
+msgid "Tagged"
+msgstr "Tagelve"
+
+#~ msgid "Read more"
+#~ msgstr "Tovább"
+
+#~ msgid "Comments"
+#~ msgstr "Kommentek"

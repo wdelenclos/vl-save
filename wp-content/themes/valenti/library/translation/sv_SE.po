@@ -1,0 +1,392 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Valenti v5.0\n"
+"POT-Creation-Date: 2016-02-19 12:42-0000\n"
+"PO-Revision-Date: 2016-02-19 12:42-0000\n"
+"Last-Translator: \n"
+"Language-Team: Cubell Themes\n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-KeywordsList: _e;__;esc_html_e;_n:1,2;gettext;gettext_noop\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../library/admin\n"
+"X-Poedit-SearchPathExcluded-1: ../option-tree\n"
+"X-Poedit-SearchPathExcluded-2: ../plugins/login-with-ajax\n"
+"X-Poedit-SearchPathExcluded-3: ../bbpress\n"
+"X-Poedit-SearchPathExcluded-4: ../buddypress\n"
+"X-Poedit-SearchPathExcluded-5: ../woocommerce\n"
+
+#: ../404.php:6
+msgid "Page not found"
+msgstr "Sidan hittas inte"
+
+#: ../404.php:17
+msgid "Oops! The page you were looking for was not found."
+msgstr "Oops, sidan du letade efter kunde inte hittas!"
+
+#: ../archive.php:11
+msgid "Daily Archives"
+msgstr "Dagsarkiv:"
+
+#: ../archive.php:16
+msgid "Monthly Archives"
+msgstr "Månadsarkiv:"
+
+#: ../archive.php:21
+msgid "Yearly Archives"
+msgstr "Årsarkiv"
+
+#: ../author.php:13
+msgid "Author"
+msgstr "Skribent"
+
+#: ../bbpress.php:15 ../buddypress.php:15
+msgid "Member"
+msgstr "Medlem"
+
+#: ../buddypress.php:19
+msgid "Group"
+msgstr "Grupp"
+
+#: ../buddypress.php:24 ../buddypress.php:41 ../buddypress.php:46
+#: ../library/core.php:955 ../library/core.php:957
+msgid "Groups"
+msgstr "Grupper"
+
+#: ../buddypress.php:28
+msgid "Settings"
+msgstr "Inställningar"
+
+#: ../buddypress.php:32
+msgid "Forums"
+msgstr "Forum"
+
+#: ../buddypress.php:36 ../buddypress.php:53
+msgid "Activity"
+msgstr "Aktivitet"
+
+#: ../buddypress.php:41 ../buddypress.php:47
+msgid "Create a Group"
+msgstr "Skapa grupp"
+
+#: ../comments.php:11
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Den här artikeln är lösenordskyddad. "
+
+#: ../comments.php:20
+msgid "No Responses"
+msgstr "Inga svar än"
+
+#: ../comments.php:20
+msgid "One Response"
+msgstr "Ett svar"
+
+#: ../comments.php:20
+msgid "% Response"
+msgid_plural "% Responses"
+msgstr[0] "% svar"
+msgstr[1] "% svar"
+
+#: ../comments.php:47
+msgid "Leave a Reply"
+msgstr "Lämna ett svar"
+
+#: ../comments.php:48
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Lämna ett svar till %s"
+
+#: ../comments.php:49
+msgid "Cancel Reply"
+msgstr "Avbryt svar"
+
+#: ../comments.php:50
+msgid "Submit"
+msgstr "Skicka"
+
+#: ../comments.php:52
+msgid "Your email address will not be published."
+msgstr "Din e-post kommer inte att synas"
+
+#: ../comments.php:53
+msgid "Comment"
+msgstr "Kommentera"
+
+#: ../comments.php:59
+#, php-format
+msgid ""
+"You must be <a href=\"%s\" data-reveal-id=\"cb-login-modal\">logged in</a> "
+"to post a comment."
+msgstr ""
+"Du måste vara <a href=\"%s\" data-reveal-id=\"cb-login-modal\">inloggad</a> "
+"för att skriva en kommentar."
+
+#: ../comments.php:65
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+"Du är inloggad som <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Logga "
+"ut från detta konto\">Vill du logga ut?</a>"
+
+#: ../comments.php:75
+msgid "Name"
+msgstr "Namn"
+
+#: ../comments.php:81 ../library/core.php:1926 ../library/core.php:1969
+#: ../library/core.php:2002
+msgid "Email"
+msgstr "E-post"
+
+#: ../comments.php:88 ../library/core.php:1927 ../library/core.php:1970
+#: ../library/core.php:2003
+msgid "Website"
+msgstr "Hemsida"
+
+#: ../library/core.php:171
+msgid "Login / Join"
+msgstr "Logga in / Gå med"
+
+#: ../library/core.php:181 ../library/core.php:236
+msgid "Search"
+msgstr "Sök"
+
+#: ../library/core.php:259
+msgid "Breaking"
+msgstr "Senaste nytt"
+
+#: ../library/core.php:364
+msgid "You need to install Jetpack plugin and enable \"Stats\"."
+msgstr "Du behöver installera Jetpack för att aktivera \"Stats\"."
+
+#: ../library/core.php:525
+msgid "Featured"
+msgstr "Utvald"
+
+#: ../library/core.php:531
+msgid "Random"
+msgstr "Läs gärna"
+
+#: ../library/core.php:589 ../library/core.php:634
+msgid "Recent"
+msgstr "Rykande färskt"
+
+#: ../library/core.php:916
+msgid "Home"
+msgstr "Lustfyllt"
+
+#: ../library/core.php:932 ../library/core.php:936 ../library/core.php:937
+#: ../library/core.php:1004 ../library/core.php:1008 ../library/core.php:1010
+#: ../library/core.php:1016 ../library/core.php:1022 ../library/core.php:1028
+#: ../library/core.php:1391
+#, php-format
+msgid "View all posts in %s"
+msgstr "Visa alla artiklar i %s"
+
+#: ../library/core.php:973 ../library/core.php:977
+msgid "Members"
+msgstr "Medlemmar"
+
+#: ../library/core.php:985
+msgid "Messages"
+msgstr "Meddelanden"
+
+#: ../library/core.php:990
+msgid "Register"
+msgstr "Registrera"
+
+#: ../library/core.php:1268
+msgid "Share On"
+msgstr "Dela via"
+
+#: ../library/core.php:1617
+msgid "Overall Score"
+msgstr "Genomsnittligt betyg"
+
+#: ../library/core.php:1689 ../library/core.php:1695
+msgid "You have already rated"
+msgstr ""
+
+#: ../library/core.php:1694
+msgid "Leave rating"
+msgstr ""
+
+#: ../library/core.php:1696 ../library/core.php:1819
+#, fuzzy
+msgid "Vote"
+msgid_plural "Votes"
+msgstr[0] "Rösta"
+msgstr[1] "Rösta"
+
+#: ../library/core.php:1703
+msgid "Reader Rating"
+msgstr "Våra läsares betyg"
+
+#: ../library/core.php:1821
+msgid "Votes"
+msgstr "Röster"
+
+#: ../library/core.php:1959
+msgid "About The Author"
+msgstr "Vem är skribenten?"
+
+#: ../library/core.php:2015
+msgid "Topics Started"
+msgstr "Trådar startade"
+
+#: ../library/core.php:2019
+msgid "Replies Created"
+msgstr "Publicerade svar"
+
+#: ../library/core.php:2025
+msgid "Favorites"
+msgstr "Favoriter"
+
+#: ../library/core.php:2033
+msgid "Subscriptions"
+msgstr "Prenumerationer"
+
+#: ../library/core.php:2038
+msgid "Edit"
+msgstr "Redigera"
+
+#: ../library/core.php:2156
+msgid "Related Posts"
+msgstr "Relaterade artiklar"
+
+#: ../library/core.php:2234 ../library/core.php:2244
+msgid "No More Stories"
+msgstr "Inga fler artiklar"
+
+#: ../library/core.php:2792
+msgid "(Edit)"
+msgstr "(Redigera)"
+
+#: ../library/core.php:2796
+msgid "Your comment is awaiting moderation."
+msgstr "Din kommentar inväntar granskning."
+
+#: ../library/core.php:3423
+#, php-format
+msgid "%s (Invalid)"
+msgstr "%s (ogiltig)"
+
+#: ../library/core.php:3427
+#, php-format
+msgid "%s (Pending)"
+msgstr "%s (Väntande)"
+
+#: ../library/core.php:3440
+msgid "sub item"
+msgstr "sub post"
+
+#: ../library/core.php:3472
+msgid "Edit Menu Item"
+msgstr "Redigera menypost"
+
+#: ../library/core.php:3481
+msgid "URL"
+msgstr "URL"
+
+#: ../library/core.php:3488
+msgid "Navigation Label"
+msgstr "Navigeringsetikett"
+
+#: ../library/core.php:3494
+msgid "Title Attribute"
+msgstr "Titelattribut "
+
+#: ../library/core.php:3501
+msgid "Open link in a new window/tab"
+msgstr "Öppna länk i nytt fönster"
+
+#: ../library/core.php:3506
+msgid "CSS Classes (optional)"
+msgstr "CSS klasser (valfritt)"
+
+#: ../library/core.php:3512
+msgid "Link Relationship (XFN)"
+msgstr "Länkrelation (XFN)"
+
+#: ../library/core.php:3529
+msgid "Description"
+msgstr "Beskrivning"
+
+#: ../library/core.php:3532
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr "Denna beskrivning kommer visas om ditt tema tillåter det."
+
+#: ../library/core.php:3537
+msgid "Move"
+msgstr "Flytta"
+
+#: ../library/core.php:3538
+msgid "Up one"
+msgstr "Flytta upp"
+
+#: ../library/core.php:3539
+msgid "Down one"
+msgstr "Flytta ner"
+
+#: ../library/core.php:3542
+msgid "To the top"
+msgstr "Gå längst upp"
+
+#: ../library/core.php:3549
+#, php-format
+msgid "Original: %s"
+msgstr "Original: %s"
+
+#: ../library/core.php:3562
+msgid "Remove"
+msgstr "Radera"
+
+#: ../library/core.php:3563
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: ../library/core.php:3697
+msgid "No more articles"
+msgstr "Det finns inga fler artiklar här för tillfället!"
+
+#: ../library/core.php:3698
+msgid "Load More"
+msgstr "Ladda fler"
+
+#: ../library/core.php:4267
+msgid "Valenti Post Format: Audio"
+msgstr "Valenti postformat: Ljud"
+
+#: ../page-full-width.php:59 ../page.php:56
+msgid "Tags:"
+msgstr "Taggar"
+
+#: ../search.php:10
+msgid "Search Results for:"
+msgstr "Du sökte efter: "
+
+#: ../search.php:23
+msgid "Sorry, nothing found."
+msgstr "Ajdå! Vi hittade tyvärr inget."
+
+#: ../search.php:26
+msgid "Please try searching again, but with different keywords."
+msgstr "Gör ett nytt försök med en annan sökterm."
+
+#: ../tag.php:32
+msgid "Tagged"
+msgstr "Taggad"
+
+#~ msgid "You have already voted"
+#~ msgstr "Du har redan röstat!"
+
+#~ msgid "Your Rating"
+#~ msgstr "Ditt betyg"

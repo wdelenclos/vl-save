@@ -1,0 +1,100 @@
+html.show-fe-toolbar.transition {
+	transition: margin-top 0.7s;
+	-webkit-transition: margin-top 0.7s;
+	-moz-transition: margin-top 0.7s;
+}
+
+html.hide-fe-toolbar {
+	margin-top: 0 !important;
+}
+
+html.hide-fe-toolbar.transition {
+	transition: margin-top 0.7s;
+	-webkit-transition: margin-top 0.7s;
+	-moz-transition: margin-top 0.7s;
+	transition-delay: 0.25s;
+	-webkit-transition-delay: 0.25s;
+	-moz-transition-delay: 0.25s;
+}
+
+#wp-admin-bar-hide {
+	cursor: pointer;
+}
+
+#wpadminbar.show-fe-toolbar.transition #wp-admin-bar-hide {
+	transition: margin-right 1s;
+	-webkit-transition: margin-right 1s;
+	-moz-transition: margin-right 1s;
+}
+
+#wpadminbar.hide-fe-toolbar #wp-admin-bar-hide {
+	background-color: #464646;
+}
+
+#wpadminbar.hide-fe-toolbar.transition #wp-admin-bar-hide {
+	transition: margin-right 2.5s;
+	-webkit-transition: margin-right 2.5s;
+	-moz-transition: margin-right 2.5s;
+}
+
+#wpadminbar.show-fe-toolbar {
+	left: 0;
+}
+
+#wpadminbar.show-fe-toolbar.transition {
+	transition: left 0.7s;
+	-webkit-transition: left 0.7s;
+	-moz-transition: left 0.7s;
+}
+
+#wpadminbar.hide-fe-toolbar {
+	left: -100%;
+	margin-left: 35px;
+}
+
+#wpadminbar.hide-fe-toolbar.transition {
+	transition: left 0.7s;
+	-webkit-transition: left 0.7s;
+	-moz-transition: left 0.7s;
+}
+
+#wpadminbar #wp-admin-bar-hide div a {
+	padding: 0;
+}
+
+#wpadminbar #wp-admin-bar-hide div a:before {
+	font-size: 15px;
+	font-family: "dashicons";
+	content: "\f340";
+}
+
+#wpadminbar #wp-admin-bar-hide div a:link {
+	color: #ccc;
+}
+
+#wpadminbar.show-fe-toolbar.transition #wp-admin-bar-hide div a {
+	transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	-moz-transform: rotate(0deg);
+	transition: all 1s;
+	-webkit-transition: all 1s;
+	-moz-transition: all 1s;
+	transition-delay: 0.7s;
+	-webkit-transition-delay: 0.7s;
+	-moz-transition-delay: 0.7s;
+}
+
+#wpadminbar.hide-fe-toolbar #wp-admin-bar-hide div a {
+	transform: rotate(180deg);
+	-webkit-transform: rotate(180deg);
+	-moz-transform: rotate(180deg);
+}
+
+#wpadminbar.hide-fe-toolbar.transition #wp-admin-bar-hide div a {
+	transition: all 1s;
+	-webkit-transition: all 1s;
+	-moz-transition: all 1s;
+	transition-delay: 0.7s;
+	-webkit-transition-delay: 0.7s;
+	-moz-transition-delay: 0.7s;
+}

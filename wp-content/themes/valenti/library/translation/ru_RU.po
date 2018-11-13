@@ -1,0 +1,413 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Valenti 5.0\n"
+"POT-Creation-Date: 2015-07-23 16:42-0000\n"
+"PO-Revision-Date: 2015-10-16 17:04-0000\n"
+"Last-Translator: \n"
+"Language-Team: Cubell Themes\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-KeywordsList: gettext;gettext_noop;__;_e;esc_html_e;_n:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../option-tree\n"
+"X-Poedit-SearchPathExcluded-1: ../library/admin\n"
+"X-Poedit-SearchPathExcluded-2: ../plugins/login-with-ajax\n"
+"X-Poedit-SearchPathExcluded-3: ../bbpress\n"
+"X-Poedit-SearchPathExcluded-4: ../buddypress\n"
+"X-Poedit-SearchPathExcluded-5: ../woocommerce\n"
+
+#: ../404.php:6
+msgid "Page not found"
+msgstr "Страница не найдена"
+
+#: ../404.php:17
+msgid "Oops! The page you were looking for was not found."
+msgstr "Ой, похоже страницы, которую вы искали, не существует."
+
+#: ../archive.php:11
+msgid "Daily Archives"
+msgstr "Архив дня"
+
+#: ../archive.php:16
+msgid "Monthly Archives"
+msgstr "Архив месяца"
+
+#: ../archive.php:21
+msgid "Yearly Archives"
+msgstr "Архив года"
+
+#: ../author.php:13
+msgid "Author"
+msgstr "Автор"
+
+#: ../bbpress.php:15 ../buddypress.php:15
+msgid "Member"
+msgstr "Член"
+
+#: ../buddypress.php:19
+msgid "Group"
+msgstr "Группа"
+
+#: ../buddypress.php:24 ../buddypress.php:41 ../buddypress.php:46
+#: ../library/core.php:970 ../library/core.php:972
+msgid "Groups"
+msgstr "Группы"
+
+#: ../buddypress.php:28
+msgid "Settings"
+msgstr "Настройки"
+
+#: ../buddypress.php:32
+msgid "Forums"
+msgstr "Форумы"
+
+#: ../buddypress.php:36 ../buddypress.php:53
+msgid "Activity"
+msgstr "Активность"
+
+#: ../buddypress.php:41 ../buddypress.php:47
+msgid "Create a Group"
+msgstr "Создать группу"
+
+#: ../comments.php:11
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Пост защищён. Введите пароль, чтобы увидеть комментарии."
+
+#: ../comments.php:20
+msgid "No Responses"
+msgstr "Нет комментариев."
+
+#: ../comments.php:20
+msgid "One Response"
+msgstr "Один комментарий."
+
+#: ../comments.php:20
+msgid "% Response"
+msgid_plural "% Responses"
+msgstr[0] "% комментарий"
+msgstr[1] "% комментариев"
+msgstr[2] ""
+
+#: ../comments.php:47
+msgid "Leave a Reply"
+msgstr "Оставить комментарий"
+
+#: ../comments.php:48
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Ответить %s"
+
+#: ../comments.php:49
+msgid "Cancel Reply"
+msgstr "Отменить комментарий"
+
+#: ../comments.php:50
+msgid "Submit"
+msgstr "Отправить"
+
+#: ../comments.php:52
+msgid "Your email address will not be published."
+msgstr "Ваша почта не будет опубликована"
+
+#: ../comments.php:53
+msgid "Comment"
+msgstr "Комментировать"
+
+#: ../comments.php:59
+#, php-format
+msgid ""
+"You must be <a href=\"%s\" data-reveal-id=\"cb-login-modal\">logged in</a> "
+"to post a comment."
+msgstr ""
+"Вы должны  <a href=\"%s\" data-reveal-id=\"cb-login-modal\">войти</a>, чтобы "
+"оставить комментарий."
+
+#: ../comments.php:65
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+"Вошёл как <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Se déconnecter "
+"du compte\">Выйти?</a>"
+
+#: ../comments.php:75
+msgid "Name"
+msgstr "Имя"
+
+#: ../comments.php:81 ../library/core.php:2030 ../library/core.php:2073
+#: ../library/core.php:2106
+msgid "Email"
+msgstr "Почта"
+
+#: ../comments.php:88 ../library/core.php:2031 ../library/core.php:2074
+#: ../library/core.php:2107
+msgid "Website"
+msgstr "Сайт"
+
+#: ../header.php:178 ../library/core.php:181 ../library/core.php:237
+msgid "Search"
+msgstr "Поиск"
+
+#: ../library/core.php:171
+msgid "Login / Join"
+msgstr "Войти"
+
+#: ../library/core.php:260
+msgid "Breaking"
+msgstr "Свежее"
+
+#: ../library/core.php:357
+msgid "You need to install Jetpack plugin and enable \"Stats\"."
+msgstr "Установите плагин Jetpack и включите Stats"
+
+#: ../library/core.php:518
+msgid "Featured"
+msgstr "Избранное"
+
+#: ../library/core.php:524
+msgid "Random"
+msgstr "Случайное"
+
+#: ../library/core.php:602 ../library/core.php:651
+msgid "Recent"
+msgstr "Последнее"
+
+#: ../library/core.php:931
+msgid "Home"
+msgstr "Главная"
+
+#: ../library/core.php:947 ../library/core.php:951 ../library/core.php:952
+#: ../library/core.php:1019 ../library/core.php:1023 ../library/core.php:1025
+#: ../library/core.php:1031 ../library/core.php:1037 ../library/core.php:1043
+#: ../library/core.php:1283
+#, php-format
+msgid "View all posts in %s"
+msgstr "Все посты в %s"
+
+#: ../library/core.php:988 ../library/core.php:992
+msgid "Members"
+msgstr "Члены"
+
+#: ../library/core.php:1000
+msgid "Messages"
+msgstr "Сообщения"
+
+#: ../library/core.php:1005
+msgid "Register"
+msgstr "Зарегистрироваться"
+
+#: ../library/core.php:1174
+msgid "Share On"
+msgstr "Поделиться"
+
+#: ../library/core.php:1505
+msgid "Overall Score"
+msgstr "Оценка"
+
+#: ../library/core.php:1577 ../library/core.php:1856
+msgid "You have already voted"
+msgstr "Вы уже голосовали"
+
+#: ../library/core.php:1583 ../library/core.php:1720
+msgid "Vote"
+msgstr "Голос"
+
+#: ../library/core.php:1585 ../library/core.php:1722
+msgid "Votes"
+msgstr "Голоса"
+
+#: ../library/core.php:1593 ../library/core.php:1720 ../library/core.php:1722
+msgid "Reader Rating"
+msgstr "Оценка посетителей"
+
+#: ../library/core.php:1800
+msgid "Your Rating"
+msgstr "Ваша оценка"
+
+#: ../library/core.php:2063
+msgid "About The Author"
+msgstr "Об авторе"
+
+#: ../library/core.php:2119
+msgid "Topics Started"
+msgstr "Тем"
+
+#: ../library/core.php:2123
+msgid "Replies Created"
+msgstr "Ответов"
+
+#: ../library/core.php:2129
+msgid "Favorites"
+msgstr "Избранное"
+
+#: ../library/core.php:2137
+msgid "Subscriptions"
+msgstr "Подписки"
+
+#: ../library/core.php:2142
+msgid "Edit"
+msgstr "Править"
+
+#: ../library/core.php:2260
+msgid "Related Posts"
+msgstr "А ещё у нас есть"
+
+#: ../library/core.php:2327
+msgid "No More Stories"
+msgstr "Больше нет постов"
+
+#: ../library/core.php:2782
+msgid "(Edit)"
+msgstr "(Правка)"
+
+#: ../library/core.php:2786
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий на проверке"
+
+#: ../library/core.php:3426
+#, php-format
+msgid "%s (Invalid)"
+msgstr "%s неправильно"
+
+#: ../library/core.php:3430
+#, php-format
+msgid "%s (Pending)"
+msgstr "%s ждёт"
+
+#: ../library/core.php:3443
+msgid "sub item"
+msgstr "подпункт"
+
+#: ../library/core.php:3475
+msgid "Edit Menu Item"
+msgstr "Править меню"
+
+#: ../library/core.php:3484
+msgid "URL"
+msgstr "URL"
+
+#: ../library/core.php:3491
+msgid "Navigation Label"
+msgstr "Текст ссылки"
+
+#: ../library/core.php:3497
+msgid "Title Attribute"
+msgstr "Свойство ссылки"
+
+#: ../library/core.php:3504
+msgid "Open link in a new window/tab"
+msgstr "Открыть ссылку в новом окне/вкладке"
+
+#: ../library/core.php:3509
+msgid "CSS Classes (optional)"
+msgstr "CSS классы (по желанию)"
+
+#: ../library/core.php:3515
+msgid "Link Relationship (XFN)"
+msgstr "Внешняя ссылка (XFN)"
+
+#: ../library/core.php:3532
+msgid "Description"
+msgstr "Описание"
+
+#: ../library/core.php:3535
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr "Описание отображается в меню, если тема поддерживает это."
+
+#: ../library/core.php:3540
+msgid "Move"
+msgstr "Переместить"
+
+#: ../library/core.php:3541
+msgid "Up one"
+msgstr "Вверх"
+
+#: ../library/core.php:3542
+msgid "Down one"
+msgstr "Вниз"
+
+#: ../library/core.php:3545
+msgid "To the top"
+msgstr "В начало"
+
+#: ../library/core.php:3552
+#, php-format
+msgid "Original: %s"
+msgstr "Источник: %s"
+
+#: ../library/core.php:3565
+msgid "Remove"
+msgstr "Убрать"
+
+#: ../library/core.php:3566
+msgid "Cancel"
+msgstr "Отменить"
+
+#: ../library/core.php:3692
+msgid "No more articles"
+msgstr "Это все статьи."
+
+#: ../library/core.php:3693
+msgid "Load More"
+msgstr "Загрузить ещё"
+
+#: ../library/core.php:4258
+msgid "Valenti Post Format: Audio"
+msgstr "Valenti Post Format: Аудио"
+
+#: ../page-full-width.php:59 ../page.php:60
+msgid "Tags:"
+msgstr "Метки"
+
+#: ../search.php:10
+msgid "Search Results for:"
+msgstr "Вот что мы нашли :"
+
+#: ../search.php:23
+msgid "Sorry, nothing found."
+msgstr "Простите, ничего не найдено."
+
+#: ../search.php:26
+msgid "Please try searching again, but with different keywords."
+msgstr "Попробуйте поискать по другим ключевым словам."
+
+#: ../tag.php:37
+msgid "Tagged"
+msgstr "Архив"
+
+#~ msgid "Read more"
+#~ msgstr "Lire la suite"
+
+#~ msgid "Comments"
+#~ msgstr "Commentaires"
+
+#~ msgid "Latest Activity"
+#~ msgstr "Dernière Activité"
+
+#, fuzzy
+#~ msgid "vote"
+#~ msgstr "votes"
+
+#~ msgid "votes"
+#~ msgstr "votes"
+
+#~ msgid "Latest"
+#~ msgstr "Derniers articles"
+
+#~ msgid "Log In"
+#~ msgstr "Conectarse"
+
+#~ msgid "Hi"
+#~ msgstr "Hola"
+
+#~ msgid "Plugin"
+#~ msgstr "Plugin"

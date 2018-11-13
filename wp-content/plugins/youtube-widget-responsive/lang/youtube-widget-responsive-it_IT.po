@@ -1,0 +1,179 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Youtube widget responsive - v 1.2\n"
+"POT-Creation-Date: 2015-10-01 03:09+0200\n"
+"PO-Revision-Date: 2015-10-01 03:20+0200\n"
+"Last-Translator: StefanoAI <stefanoai@stefanoai.com>\n"
+"Language-Team: StefanoAI <stefanoai@stefanoai.com>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: youtube-widget-responsive.php:23
+msgid ""
+"YouTube Responsive enable you to place a widget with youtube video.\n"
+"Among the various options there is also the possibility to start the video "
+"automatically"
+msgstr ""
+"YouTube Responsive vi permette di inserire un widget di un filmato "
+"youtube.\n"
+"Tra le varie opzioni vi è anche la possibilità di far avviare il video "
+"automaticamente"
+
+#: youtube-widget-responsive.php:357
+msgid "Title"
+msgstr "Titolo"
+
+#: youtube-widget-responsive.php:361
+msgid "Video"
+msgstr "Video"
+
+#: youtube-widget-responsive.php:365
+msgid "Start from"
+msgstr "Avvio partendo da"
+
+#: youtube-widget-responsive.php:366 youtube-widget-responsive.php:371
+msgid "min"
+msgstr "min"
+
+#: youtube-widget-responsive.php:367 youtube-widget-responsive.php:372
+msgid "sec"
+msgstr "sec"
+
+#: youtube-widget-responsive.php:370
+msgid "End to"
+msgstr "Fine del video a"
+
+#: youtube-widget-responsive.php:376
+msgid "Enable substitles automatically"
+msgstr "Abilitare i sottotitoli automatici"
+
+#: youtube-widget-responsive.php:377
+msgid "language [en]"
+msgstr "lingua [en]"
+
+#: youtube-widget-responsive.php:381
+msgid "Auto hide Video progress bar"
+msgstr "Nascondi automaticamente la barra di avanzamento del video"
+
+#: youtube-widget-responsive.php:383 youtube-widget-responsive.php:413
+msgid "Default"
+msgstr "Default"
+
+#: youtube-widget-responsive.php:384
+msgid "Hide video progress bar after video starts playing"
+msgstr "Nascondi la barra di avanzamento dopo che il video inizia"
+
+#: youtube-widget-responsive.php:385
+msgid "Show always"
+msgstr "Sempre"
+
+#: youtube-widget-responsive.php:389
+msgid "Theme of control bar"
+msgstr "Tema della barra di controllo"
+
+#: youtube-widget-responsive.php:391
+msgid "Dark"
+msgstr "Scuro"
+
+#: youtube-widget-responsive.php:392
+msgid "Light"
+msgstr "Chiaro"
+
+#: youtube-widget-responsive.php:396
+msgid "Select color of progress bar"
+msgstr "Scegli il colore della barra di avanzamento"
+
+#: youtube-widget-responsive.php:398
+msgid "Red"
+msgstr "Rosso"
+
+#: youtube-widget-responsive.php:399
+msgid "White"
+msgstr "Bianco"
+
+#: youtube-widget-responsive.php:403
+msgid "Show controls bar"
+msgstr "Mostra la barra di controllo"
+
+#: youtube-widget-responsive.php:405
+msgid "Always"
+msgstr "Sempre"
+
+#: youtube-widget-responsive.php:406
+msgid "On video playback"
+msgstr "Durante la riproduzione video"
+
+#: youtube-widget-responsive.php:407
+msgid "Never"
+msgstr "Mai"
+
+#: youtube-widget-responsive.php:411
+msgid "Resolution"
+msgstr "Risoluzione"
+
+#: youtube-widget-responsive.php:440
+msgid "Allow fullscreen"
+msgstr "Abilitare fullscreen"
+
+#: youtube-widget-responsive.php:444
+msgid "Disable the player Keyboard controls"
+msgstr "Disabilitare i controlli da tastiera"
+
+#: youtube-widget-responsive.php:448
+msgid "Hide video annotations"
+msgstr "Nascondi le annotazioni video"
+
+#: youtube-widget-responsive.php:452
+msgid "Start video automatically"
+msgstr "Avviare il video automaticamente"
+
+#: youtube-widget-responsive.php:456
+msgid "Hide YouTube logo on controls bar"
+msgstr "Nascondi il logo di YouTube nella barra di controllo"
+
+#: youtube-widget-responsive.php:460
+msgid "Hide the video title and uploader before the video starts playing"
+msgstr ""
+"Nascondi il titolo del video e l'uploader prima che il video inizi la "
+"produzione"
+
+#: youtube-widget-responsive.php:468
+msgid ""
+"Enable privacy-enhanced mode [<a target=\"_blank\" href=\"http://www.google."
+"com/support/youtube/bin/answer.py?"
+"answer=171780&expand=PrivacyEnhancedMode#privacy\">?</a>]"
+msgstr ""
+"Abilitazione della modalità privacy ottimizzata [<a target='_blank' "
+"href='https://support.google.com/youtube/answer/171780?"
+"expand=PrivacyEnhancedMode&hl=it#privacy'>?</a>]"
+
+#: youtube-widget-responsive.php:472
+msgid "Show suggested videos when the video finishes"
+msgstr "Mostra video suggeriti al termine del video"
+
+#: youtube-widget-responsive.php:476
+msgid "wmode transparent"
+msgstr "wmode transparent"
+
+#: youtube-widget-responsive.php:480
+msgid "Track video (Google Analytics/Universal Analytics)"
+msgstr "Track il video (Google Analytics/Universal Analytics)"
+
+#~ msgid ""
+#~ "YouTube Responsive vi permette di inserire un widget di un filmato "
+#~ "youtube.\n"
+#~ "Tra le varie opzioni vi è anche la possibilità di far avviare il video "
+#~ "automaticamente"
+#~ msgstr ""
+#~ "YouTube Responsive vi permette di inserire un widget di un filmato "
+#~ "youtube.\n"
+#~ "Tra le varie opzioni vi è anche la possibilità di far avviare il video "
+#~ "automaticamente"

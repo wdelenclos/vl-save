@@ -1,0 +1,16 @@
+/* Admin Styles */
+#poststuff .inside h2 {
+	font-size: 1.3em;
+	font-weight: bold;
+	margin: 1em 0 0.25em 0;
+	padding:0 0 0.75em 0;	
+	border-bottom:1px solid #eee;
+}
+#bb-credit h3 {
+	border-bottom:1px solid #eee;
+}
+
+#bb-pst-form-reset-to-defaults p {
+	margin:0;
+	padding:0;	
+}

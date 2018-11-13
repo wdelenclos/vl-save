@@ -1,0 +1,88 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Authorized Digital Sellers TXT\n"
+"POT-Creation-Date: 2017-11-23 11:40+0100\n"
+"PO-Revision-Date: 2017-11-23 11:40+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: authorized-digital-sellers-txt.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: authorized-digital-sellers-txt.php:62
+msgid "ADS.txt options"
+msgstr ""
+
+#: authorized-digital-sellers-txt.php:63 partials/admin-settings-page.php:10
+msgid "ADS.txt"
+msgstr ""
+
+#: authorized-digital-sellers-txt.php:128 partials/admin-settings-page.php:5
+msgid ""
+"Not able to write the ads.txt file in the WordPress root directory. Please "
+"add it manually or edit the permissions of the folder."
+msgstr ""
+
+#: partials/admin-settings-page.php:6
+#, php-format
+msgid "Location: %1$s"
+msgstr ""
+
+#: partials/admin-settings-page.php:16
+msgid "Contents of your ads.txt"
+msgstr ""
+
+#: partials/admin-settings-page.php:29
+msgid "About Authorized Digital Sellers"
+msgstr ""
+
+#: partials/admin-settings-page.php:30
+msgid ""
+"Authorized Digital Sellers (or ads.txt), is an IAB initiative to improve "
+"transparency in programmatic advertising. Publishers can create their own "
+"ads.txt files to identify who is authorized to sell their inventory. The "
+"files are publicly available and crawlable by buyers, third-party vendors, "
+"and exchanges."
+msgstr ""
+
+#: partials/admin-settings-page.php:31
+msgid "Read more"
+msgstr ""
+
+#: partials/admin-settings-page.php:35
+msgid "Example"
+msgstr ""
+
+#: partials/admin-settings-page.php:37
+msgid "&raquo; More examples"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Authorized Digital Sellers TXT"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This is a simple plugin that provides you with making a ads.txt file in the "
+"root of your WordPress installation."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "jeffreyvr"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://profiles.wordpress.org/jeffreyvr/"
+msgstr ""

@@ -1,0 +1,8 @@
+.pt-form-wrapper{margin:20px 0;}
+.pt-form {width:99%;margin:0 auto;}
+.pt-form .pt-settings-heading{font-size:20px;font-weight:500;}
+.pt-form .pt-submit{float:right;margin-right:20px;}
+.pt-form .pt-posttypes{display:block;padding:3px;}
+.pt-form .pt-posttypes label{vertical-align:top;line-height:16px;}
+.pt-form .pt-option-desc{font-size:16px;width:40%;}
+.pt-form .pt-options-table tr:nth-child(2n+1){background:#f6f6f6;}
